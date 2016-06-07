@@ -1,0 +1,131 @@
+---
+title: "WFT-Vermogen Samenvatting"
+author: "SN de Koning"
+date: "7 juni 2016"
+output: html_document
+---
+
+## 1. Algemeen.
+
+
+#### 1.1. De Drie Pijlers.
+
+1. *Basisvoorzieningen* -> verzorgd door de overheid.
+2. *Aanvullende pensioenen* -> verzorgd door de werkgever.
+3. *Privévoorzieningen* -> verzorgd door de consument.
+
+
+#### 1.1.1. Basis of overheidsvoorzieningen.
+
+Sociale regelgeving te verdelen in:
+
+1. *Sociale verzekeringen*
+    1. volksverzekeringen (voor iedereen, e.g. `AOW`, `Anw`, `Wlz`).
+    2. werknemersverzekeringen (voor werknemers, e.g. `WIA`, `WW`).
+2. *Sociale voorzieningen* (aanvulling op sociale verzekeringen, e.g. Participatiewet, Toeslagenwet).
+
+Voorzien slechts in minimale levensbehoefte.
+
+#### 1.1.2. Pensioen
+
+1. *Werknemerspensioen*
+    + e.g. ouderdoms-, nabestaanden- en arbeidongeschiktheidspensioen.
+    + houd rekening met voorzieningen vanuit pijler 1.
+    + verplicht via cao of aansluiting via ondernemings- of bedrijfstakpensioenfonds.
+    + geen algemene pensioenplicht in Nederland.
+2. *Oudedagsvoorziening zelfstandig ondernemers*
+    + regelen via pijler 3.
+    + geen verplichting, m.u.v. bepaalde groepen ondernemers zoals huisartsen.
+    + aparte fiscale regelingen.
+3. *Pensioen werknemer-grootaandeelhouder*
+    + "Gewone werknemer"
+    + valt niet onder de Pensioenwet
+    + hoeft het pensioen niet onder te brengen bij speciale verzekeraar, maar kan dit doen via eigen beheer, of een aparte pensioen-BV.
+    + directeur-grootaandeelhouder, `DGA`, is een persoon met >= 10% van de aandelen van BV.
+    
+#### 1.1.3. Privevoorzieningen.
+
+Elke voorziening dat een klant al dan niet in aanvulling op de voorgenoemde kan treffen.
+Geheel vrijwillig, en hoeven geen direct verband met de verrichte arbeid te hebben.
+
+--- 
+
+## 2. Levensverzekeringen algemeen.  
+
+#### 2.1. Definitie levensverzekering.
+
+> een overeenkomst van verzekering tot het doen van geldelijke uitkeringen of een uitkering in natura in verband met het leven of de dood van de mens, met dien verstande dat overeenkomsten van ongevallenverzekering niet als overeenkomsten van levensverzekering worden beschouwd.
+
+1. *een verzekering*
+    + kansovereenkomst, i.e. onzeker voorval.
+2. *uitkering in geld of natura*
+    + in natura denk aan uitvaart.
+3. *houdt verband met het leven of de dood van de mens*
+    + Uitkering bij leven/sterfte/gecombineerd.
+    + Levensverzekering is sommenverzekering.
+4. *is geen ongevallenverzekering*  
+
+
+#### 2.2. Betrokken partijen bij een levensverzekering.
+
+* de verzekeraar
+* de verzekeringnemer
+* de premieverschuldigde
+* de verzekerde(n)
+* de begunstigde(n)
+
+#### 2.2.1
+
+de volgorde in standaardbegunstiging is:
+
+1. de verzekeringnemer
+2. de echtgenoot/geregistreerde partner
+3. kinderen
+4. overige erfgenamen
+
+__NB.__ Samenwonende partner valt buiten de kring standaardbegunstigden. Oplossingen zijn deze medeverzekeringnemer te maken, of de tweede begunstigde te wijzigen in de partner.
+
+#### 2.3. Redenen voor een levensverzekering.
+
+Het dekken van de volgende risico's:
+
+1. Risico van lang leven.
+    + langer leven dan financieel gepland.
+2. Risico van kort leven (overlijden).
+
+De vier redenen voor het afsluiten van een levensverzekering:
+
+1. *Schuldaflossing*
+    + vaak afgeslotenin combinatie met hypothecair krediet.
+    + uitkering bij eindtermijn om krediet ineens af te lossen.
+2. *De verzorging van de nabestaanden*
+    + financiële zekerheid voor nabestaanden.  
+    + periodieke uitkering; voor gehele of gedeeltelijke vervanging van inkomen.
+    + uitkering ineens; voor afbetaling openstaande leningen, uitvaart, of om enige tijd van te leven.
+3. *Inkomen voor de oude dag*
+    +pPeriodieke uitkering na bereiken bepaalde leeftijd. e.g. pensioen (via werkgever), lijfrente(prive).
+4. *Sparen voor toekomstige lasten.*
+    + e.g. studieverzekering voor kind.
+    
+---    
+    
+## 3. Inhoud van de levensverzekeringsovereenkomst.
+
+#### 3.1. Het afsluiten van een levensverzekering.
+
+In het onderstaande schema is aangegeven hoe het proces van afsluiting verloopt:
+![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image1.jpg)
+
+
+1. *Offerte*
+    + na de intake waaruit de wensen van de klant naar voren worden gehaald stelt de adviseur offertes van de verschillende opties op.
+2. *Aanvraagformulier en eventuele medische waarborgen*
+    + niet van belang bij uitkering bij leven op een bepaalde datum.
+    + types medische waarborgen:
+        + gezondheidsverklaring
+        + huisartsenkeuring (bij aanvangsrisico >250k)
+        + internistenkeuring (bij aanvangsrisico >500k)
+
+
+
+
