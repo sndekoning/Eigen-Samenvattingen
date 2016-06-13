@@ -211,8 +211,227 @@ De belangrijkste rechten van de verzekeringnemer zijn:
         1. er is een recht op een stellige (zekere) uitkering
         2. de verzekering heeft een bepaalde waarde.
 3. *niet meer betalen van de premie*
+    + de levensverzekering is een eenzijdige overeenkomst, d.w.z. er is geen sprake van                         premiebetalingsverplichting. Bij achterwegelating van premiebetaling kunnen de volgende consequenties       hebben:
+        + premievrij voortzetten
+            + premiebetaler stopt premiebetaling.
+            + afkoopwaarde geld als koopsom voor gewijzigde verzekering.
+            + eindkapitaal wordt herrekend naar nieuwe koopsom.
+            + bij beleggingsverzekeringen worden er nog wel kosten uit de waarde onttrokken.
+            + gevolg door rendement is de premievrijwe waarde hoger dan de afkoopwaarde.
+        + automatisch voortzetten
+            + premiebetaler stopt premiebetaling.
+            + verzekering wordt in haar oorspronkelijke vorm en voor het oorspronkelijk verzekerde                      voortgezet.
+            + onbetaalde premies worden door de verzekeraar als een lening aan de verzekeringnemer                      beschouwd, welke op één van de volgende manieren kunnen worden verrekend:
+                + zodra de som van de onbetaalde premies plus interest en kosten hoger is dan de                            afkoopwaarde, vervalt de polis zonder waarde.
+                + bij in leven zijn op de einddatum: de onbetaalde premies plus interest en kosten komen in                 mindering op het verzekerde kapitaal bij leven.
+                + bij overlijden van de verzekerde voor de einddatum van de verzekering: de onbetaalde                      premies plus interest en kosten komen in mindering op het verzekerde kapitaal bij                           overlijden.     
+        + onverminderd voortzetten
+            + dit gebeurt bij gemengde verzekeringen.
+            + premiebetaler stopt premiebetaling.
+            + het overlijdensrisicokapitaal blijft in stand, zolang er voldoende kapitaal in de polis zit om             de premie uit te onttrekken.
+            + als er op de einddatum nog een waarde in de polis zit, wordt deze uitgekeerd aan de                       begunstigde.
+        + de verzekering afkopen, of als deze geen waarde heeft, laten vervallen. Dit heet royeren.
+    + in het geval van aanvaarde begunstiging of verpanding zal de begunstigde of de pandhouder op de hoogte     worden gesteld. Hiernaast kunnen er fiscale gevolgen zijn voor de behandeling van de polis.
 4. *belening*
+    + het recht van de verzekeringsnemer om geld te lenen bij de verzekeraar.
+    + een rentedragend voorschot op toekomstige uitkering.
+    + op de einddatum brengt de verzekeraar het geleende bedrag plus rente in mindering op de uitkering.
+    + kan fiscale gevolgen hebben voor de behandeling van de verzekering.
+    + het te belenen bedrag is lager dan de aanwezige afkoopwaarde.
+    + bij beleggingsverzekeringen zijn er maar beperkte beleningsmogelijkheden, of zelfs zijn deze volledig     uitgesloten.
 5. *conversie*
+    + het omzetten van de verzekeringsvorm naar een andere vorm door de verzekeringsnemer.
+    + in de regel alleen mogelijk als er waarde in de polis aanwezig is.
+    + bij omzetting van een verzekering met alleen een uitkering naar leven naar een uitkering bij              overlijden zal de verzekeraar wel om een gezondheidsverklaring vragen.
+    + dit is een indirect recht, omdat deze niet expliciet opgenomen in de wet is.
+
+#### Verzwijging, ofwel de mededelingsplicht van de verzekeringnemer
+
+Het is verplicht voor de kandidaat-verzekeringsnemer alle informatie te verstrekken die relevant is voor de verzekeringsaanvraag. Hierbij geld dat de verzekeringsnemer geen informatie moet geven waar niet om wordt gevraagd. Moedwillige misleiding is hierbij een uitzondering.
+
+Voor de mededelingsplicht zijn drie vereisten:
+
+1. *kennisvereiste*
+    + de verzekeringsnemer is verplicht alle informatie te geven die hij kent, of behoort te kennen.
+2. *kenbaarheidsvereiste*
+    + de informatie moet betrekking hebben op de beslissing tot acceptatie van de verzekeraar. De kandidaat     weet of behoort te begrijpen dat deze van invloed is op deze beslissing.
+3. *verschoonbaarheidsvereiste*
+    + de mededelingsplicht geldt niet als deze betrekking heeft op informaite die de verzekeraar al kent, of     behoort te kennen.
+    + **NB.** een verzekeraar mag nooit een aanvraagformulier en gezondheidsverklaring van een andere           verzekering gebruiken voor informatie in geval van uitkering.  
+    
+De consequenties van het niet voldoen aan de mededelingsplicht is afhankelijk van het moment van ontdekking.
+
+1. *In het geval van ontdekking tijdens de looptijd*
+    + dient bij ontdekking binnen twee maanden een melding te maken bij de verzekeringsnemer. Er zijn dan       twee mogelijkheden.
+        1. aanpassen van de verzekering. Dit geldt als de verzekeraar de verzekering onder andere                   voorwaarden wel had geaccepteerd. De verzekernemer heeft twee maanden bedenktijd, indien niet               akkoord, komt de verzekering te vervallen.
+        2. opzegging van de verzekering. Ookwel het opzeggingsrecht. Dit geldt alleen als de verzekeraar de         verzekering niet geaccepteerd zou hebben. De verzekeringsnemer heeft wel recht op de afkoopwaarde           van de verzekering, als de verzekeraar gebruik maakt van dit opzeggingsrecht. De afkoopwaarde is een         dag voor de beëindiging van de overeenkomst.
+2. *In het geval van ontdekking op het moment van uitkering*
+    + de verzekeraar keert volledig uit.
+        + als de onjuiste informatie niet van belang is voor het risico dat verzekerd is.
+        + dit heet het causaliteitsbeginsel.
+    + de verzekeraar keert gedeeltelijk uit.
+        + er is een causaal verband tussen de onjuiste informatie en het verzekerde risico.
+        + de uitkering wordt evenredig verlaagd tot het niveau dat overeenkomt als wel alle informatie was          verstrekt.
+        + dit heet het proportionaliteitsbeginsel.
+    + de verzekeraar keert helemaal niet uit.
+        + de begunstigde ontvangt de afkoopwaarde van de verzekering.
+        + bij opzettelijk misleiden keert de verzekeraar niets uit.
+
+#### 3.3 Uitsluitingsclausules
+
+1. *Overlijden ten gevolge van zelfdoding*
+    + volgens de wet komt de verzekering te vervallen indien iemand met een levenesverzekering zelfmoord        pleegt. 
+    + dit is geen dwingent recht, meestal passen verzekeraars een carenzperiode van 2 jaren toe.
+    + uitsluiting op het bovengenoemde in het geval van euthanasie, op voorwaarde dat dit binnen de             wettelijke regelgeving van toegestane euthanasie valt.
+2. *Atoomkernreacties en/of radioactiviteit*
+    + m.u.v. medische behandelingen van de verzekerde.
+3. *Overlijden ten gevolge van een misdrijf*
+    + een misdrijf door de begunstigde
+    + opzet of grove schuld door de verzekerde, een begunstigde, of de verzekeringsnemer
+    + het deelnemen aan of plegen van een misdrijf door de verzekerde of een poging daartoe.
+        + niet bij elke verzekeraar van toepassing.
+    + afwijkingen hiervan kunnen gevonden worden in de polisvoorwaarden.
+4. *Oorlogsdekking voor militairen*
+    + Geen dekking bij:
+        + overlijden ten tijde van een vliegtocht
+        + overlijden als direct gevolg van gevechtshandelingen tijdens uitzending als militair of als               ambtenaar van Defensie.
+            + uitzondering voor verzekering voor aflossing van een woningsfinanciering met een max. van EUR             400.000
+        + overlijden van militairen in enige niet-Nederlandse krijgs- of gewapende dienst.
+
+#### 3.4 Aanvullende dekkingen.
+
+Verzekeringen die ook onder levensverzekeringen vallen zijn bijvoorbeeld:
+
+* Premievrijstelling bij arbeidsongeschiktheid.
+    + het recht niet meer verschuldigd te zijn van de premie bij arbeidsongeschiktheid van de verzekerde,       waarbij de dekking ongewijzigd blijft.
+    + dit kan alleen in het geval waarbij premiebetaler en verzekerde dezelfde persoon zijn.
+    + ook een gedeeltlijke vorm is mogelijk waarbij een gedeelte van de premie niet meer hoeft betaald te       worden, afhankelijk van de mate van arbeidsongeschiktheid.
+* Arbeidsongeschiktheidsrente.
+    + een periodieke uitkering in het geval dat de verzekerde arbeidsongeschikt is. 
+    + ter voorkoming van inkomensterugval door arbeidsongeschiktheid.
+* Ongevallenverzekering. 
+    + de begunstigde ontvangt een verhoogde uitkering als de verzekerde door een ongeval overlijdt. 
+    
+
+#### 3.5 Clausules
+
+Specifieke bepalingen die niet een logisch onderdeel vormen vna de algemene polisvoorwaarden worden in clausules opgenomen.  
+De volgende clausules zijn het meeste voorkomende:
+
+* verpandingsclausule
+    + de verzekeringnemer heeft de uit de polis voortvloeiende rechten overgedragen aan een geldverstrekker.
+    + voor een hypothecair of consumptief krediet waarbij de polis onderpand is.
+    + er dient een pandakte te worden opgemaakt
+    + in de verpandingsclausule dienen de gegevens van de geldverstrekker opgenomen te worden, eveneens als     het bedrag van verpanding als deze anders is dan het gehele kapitaal.
+* optieclausule
+    + het recht van de verzekeringnemer om het verzekerde kapitaal periodiek, te verhogen met een bepaald       percentage zonder dag er aanvullende medische waarborgen worden gevraagd.
+* indexclausule
+    + maakt het mogelijk het verzekerde kapitaal jaarlijks te verhogen zonder medische waarborgen.
+    + gekoppeld aan een objectieve parameter, e.g. inflatie.
+* kapitaalverzekering eigen woning, `KEW`
+    + let op de datum. Fiscale gevolgen voor polissen bestaande op voor 31-12-2012 met de clausule voor 01-04-2013 of op een polis afgesloten voor 01-04-2013, waarbij er op 31-12-2012 wel een eigen woning en eigenwoningschuld aanwezig was.
+    + Kan sinds 01-01-2013 niet meer afgesloten worden.
+* verzorgersclausule
+    + voor kapitaalverzekeringen waarbij de uitkering bestemd is voor een persoon die verzorgd wordt door de     verzekeringsnemer.
+    + de premiebetaling wordt overgenomen als de verzekeringnemer komt te overlijden.
+    + medische waarborgen worden gevraagd van de verzekeringnemer.
+    + e.g. bij studieverzekeringen, ouder-kind.
+* verbindingsclausule
+    + waarbij twee polissen aan elkaar worden gekoppeld zodat ze voor de kosten worden gezien als 1 polis
+    + e.g. bij fiscale voortzettng van polissen.
+* en bloc-clausule
+    + stelt de verzekeraar in staat de voorwaarden eenzijdig te wijzigen.
+    + geld voor alle soortgelijke polissen die bij de maatschappij lopen. Nooit voor een individuele polis.
+    
+#### 3.6 Expiraties
+
+Expiratie van een verzekering betekent tot uitkering komen.
+
+1. *Uitkeringen bij leven*
+    + Verzekeraars sturen doorgaans bij het zicht van de expiratiedatum een brief naar de verzekeraar voor:
+        + kijken of de begunstiging gewijzigd moet worden
+        + op welke manier hij de uitkering wil krijgen.
+        + welke stukken benodigd zijn om de uitkering te kunnen voldoen, welke meestal zijn:
+            + *Attestatie de vita* = Het bewijs van in leven te zijn. Dit document valt te verkrijgen bij               het gemeentehuis. Bij periodieke uitkering kan de verzekeraar dit periodiek vragen.
+            + *Originele Polis*
+2. *Uitkering bij overlijden*
+    + hierbij worden de volgende stukken gevraagd:
+        + *verklarig van erfrecht* = door de notaris verklaart wie de huwelijkspartner, de kinderen en de           erfgenamen van de overleden verzekerde zijn.
+            + bij een lage uitkering is dit document niet verplicht.
+        + *originele polis*
+    + **NB.** De uitkering is een zelfstandig recht, d.w.z. valt niet in het nalatenschap. De                   verzekeringsuitkering gebeurt ook niet via de verdeling van het testament of wettelijk erfrecht.
+    + Op de verzekeraar rust niet de verplichting om de uitkering te gaan brengen bij de genoemde               begunstigden. Het gaat hier om een haalschuld, als de begunstigde zich niet meldt, reserveert de            verzekeraar het geld renteloos.
+
+---
+
+## 4 Berekeningsmethodiek bij levensverzekeringen.
+
+*(pg 27-34)* 
+
+#### 4.1 Grondslagen van een levensverzekeringspremie
+
+De vergoeding van een verzekering gebeurt periodiek (premie) of eenmalig (koopsom). De hoogte van de premie of koopsom wordt bepaald door de volgende drie grondslagen:
+
+1. *kosten*. De kosten die de verzekeraar maakt bij het afsluiten en beheren van de levensverzekering en deze in rekening brengt bij de klant.
+    + Eerste kosten.
+        + de kosten die gemaakt worden bij het verstrekken van offertes.
+        + de administratieve kosten voor het opmaken van de polis.
+        + **NB.** per 01-01-2013 geld er een provisieverbod voor verzekeraars.
+    + Doorlopende kosten.
+        + de beheerkosten van de beleggingsfondsen waarin belegd wordt.
+        + de administratiekosten
+        + de kosten voor het versturen van waardeoverzichten naar klanten.
+2. *interest*. De rente die de verzekeringnemer ontvangt over de ingelegde koopsom of premie
+    + gedurende de loop van een verzekering kan de verzekeraar een rendement ontvangen op de koopsom of         premie van een klant.
+    + van dit rendement vergoed de verzekeraar een deel van de premie- of koopsominterest terug aan de          klant.
+        + bij verzekeringen met een uitkering bij leven heet dit de spaarpremie of de investeringspremie.
+    + hoe hoger de interest vergoed door de verzekeraar, hoe lager de premie of koopsom voor een bepaald        verzekerd bedrag.
+    + over de interest vangt de klant zelf ook weer interest, dus er is sprake van samengesteld rendement.
+    + Als bekend is hoe hoog een uitkering op een bepaald moment moet zijn, is het mogeljk om te berekenen      hoe hoog de initiële inleg (de koopsom), moet zijn.
+        + de formule hiervoor is $$u / ((100 + r)/100)^l$$ waarbij $u$ = uitkering, $r$ = rente en $l$ =              looptijd
+3. *risico*. Het risico op overlijden of het in leven zijn van de verzekerde waardoor er een uitkering volgt. Deze grondslag staat ook wel bekend als sterfte.
+    + de verzekeraar bepaalt het risico a.d.h.v. sterftekansen, welke gehaald worden uit het door het CBS       5-jaarlijkse geplubliceerde sterfte- of overlevingstafel.
+        + verzekeraars met de meest recente sterftetafels hanteren doorgaans lagere premies, dit vanwege de         toenemende gemiddelde leeftijd.
+    + de invloed van de sterftekans op de hoogte van de premie of koopsom is afhankelijk van het soort          verzekering.
+        + uitkering bij leven. Hoe jonger de verzekeringsnemer, hoe groter de kans voor de verzekeraar dat          zij moet uitkeren. Dus hogere premie voor jongere mensen.
+        + uitkering bij sterfte. Hoe ouder de verzekeringsnemer, des te hoger de sterftekans, dus hoe hoger         de kans dat de verzekeraar moet uitkeren. Dus hogere premie voor oudere mensen.
+    + soort premie.
+        + eenjarige risicopremie.
+            + de premie stijgt hierbij jaarlijks, doordat de premie elk jaar opnieuw wordt bepaald a.d.h.v.             de leeftijd van de verzekerde.
+        + doorsnederisicopremie.
+            + de premie blijft over de looptijd gelijk, er wordt een gemiddelde premie berekend.
+        + zie figuur.
+![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image2.jpg)
+    + winst of verliesrisicopremie.
+        + als meer mensen overlijden dan verwacht is er sprake van oversterfte.
+        + als minder mensen overlijden dan verwacht is er sprake van ondersterfte.
+        + als de verzekeraar winst maakt op de risicopremie is er sprake van sterftewinst.
+        + als de verzekeraar verlies maakt op de risicopremie is er sprake van sterfteverlies.
+        + zie onderstaand figuur voor schematisch weergegeven:
+![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image3.jpg)
+    + rokers-/niet-rokerstarief.
+        + sommige verzekeraars brengen een hogere risicopremie in rekening als de verzekerde rookt, of enige         tijd (doorgaans langer dan 2 jaar) geleden heeft gerookt. 
+    + onafhankelijkheid van geslacht.
+        + sinds 21-12-2012 mogen verzekeraars voor het vastellen van de hoogte van de premie geen                   onderscheid meer maken tussen het geslacht van de verzekerden.
+            + Verzekeraars zijn niet verplicht mee te werken aan een premiewijziging voor verzekeringen                 ingegaan voor die datum.
+
+#### 4.2 Traditioneel en universal life
+
+De verschillen tussen een traditionele levensverzekering en een universal life staan in onderstaande tabel aangegeven.
+
+![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image4.jpg)
+
+#### 4.3 Premie- of koopsomberekening.
+
+voor berekening van de uiteindelijke premie of koopsom maakt de verzekeraar gebruik van:
+
+* offertesoftware
+    + behalve verzekereraars maken ook veel bemiddelaars gebruik van offertesoftware, zodat ook zij snel een     offerte kunnen maken.
+* tarievenboeken
+    + gevuld met tabellen waarin per EUR 10.000 verzekerd kapitaal of per EUR 1.000 verzekerde rente het        tarief weergeeft.
+* aangevraagde offertes
+    + kunnen alleen via de verzekeraar zelf worden aangevraagd.
+    + Gaat om specialistische berekeningen of actuele feiten zoals rentestanden.
     
 ---
 
@@ -223,6 +442,7 @@ De belangrijkste rechten van de verzekeringnemer zijn:
 + Anw = Algemene Nabestaande Wet 
 + AOW = Algemene Ouderdoms Wet
 + DGA = Directeur Groot-Aandeelhouder
++ KEW = Kapitaalverzekering Eigen Woning
 + WIA = Wet werk en inkomen naar arbeidsvermogen
 + Wlz = Wet Langdurige Zorg
 + WMK = Wet Medische Keuring
