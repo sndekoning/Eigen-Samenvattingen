@@ -421,7 +421,7 @@ De verschillen tussen een traditionele levensverzekering en een universal life s
 
 ![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image4.jpg)
 
-#### 4.3 Premie- of koopsomberekening.
+#### 4.3 Premie- of koopsomberekening
 
 voor berekening van de uiteindelijke premie of koopsom maakt de verzekeraar gebruik van:
 
@@ -432,7 +432,73 @@ voor berekening van de uiteindelijke premie of koopsom maakt de verzekeraar gebr
 * aangevraagde offertes
     + kunnen alleen via de verzekeraar zelf worden aangevraagd.
     + Gaat om specialistische berekeningen of actuele feiten zoals rentestanden.
+
+## 5 Soorten levensverzekeringen
+
+*(pg 35-53)*
+
+#### 5.1 Indeling van levensverzekeringen
+
+1. de wijze van uitkeren
+    + *kapitaalverzekering*. Deze keren een bedrag ineens uit
+    + *renteverzekeringen*. Deze keren periodiek een bedrag uit.
+2. het moment van uitkeren
+    + *risicoverzekeringen*. Keren uit na overlijden van een persoon.
+    + *spaarverzekeringen*. Keren uit na het bereiken van een bepaalde leeftijd.
+    + *mengverzekeringen*. Keren uit zowel bij overlijden als op een bepaalde datum.
+
+Op basis van de bovenstaande indeling kan hieronder in de tabel een overzicht van verschillende verzekeringen gevonden worden.
+
+![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image5.jpg)
+
+1. kapitaalverzekering bij leven.   
+    ![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image6.jpg)
+    + premie wordt doorbetaald tot de einddatum of tot het overlijden van de verzekerde.
+    + betaling door middel van koopsom is ook mogelijk.
+2. levenslange kapitaalverzekering bij overlijden.
+    ![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image7.jpg)
+    + premiebetaling kan zowel levenslang zijn als tot een afgesproken einddatum.
+    + betaling door middel van koopsom is ook mogelijk.
+3. tijdelijke kapitaalverzekering bij overlijden.  
+    ![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image8.jpg)
+    + premiebetaling vind plaats tot de einddatum van de verzekering, of tot het overlijden van de              verzekerde.
+    + koopsom is mogelijk, maar ongebruikelijk.
+
+Naast de standaard tijdelijke overlijdensrisicoverzekering (ORV) zijn er twee varianten:
+
+1. lineair dalend.
+    + elk jaar is de daling even veel.
+    + afhankelijk van de looptijd en het oorspronklijk verzekerde bedrag.
+2. annuïtair dalend.
+    + de daling van het verzekerde bedrag loopt toe naarmate meer tijd is verstreken.
+    + wordt vaak in combinatie met een hypothecair crediet afgesloten.
     
+Een schematische illustratie van de meng-verzekeringsvorm is hieronder te vinden.
+ ![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image9.jpg)
+
+Bij de kapitaalverzekering bij leven met restitutie is er uitkering als:
+
+* de verzekerde op de einddatum in leven is.
+* bij overlijden voor de einddatum wordt de som van de betaalde premies of de opgebouwde waarde uitbetaald met 90%, 100% of 110% restitutie.
+
+#### 5.5 Kapitaalverzekeringen en belasting.
+
+1. *Wet IB 2001*, geldt voor polissen gesloten na 14-09-1999.
+    + polissen vallende onder deze wet vallen in beginsel onder de vermogensrendementsheffing box 3.
+    + met betrekking tot de voorwaarden voor de `KEW`, spaarrekening eigen woning, `SEW` en de                  beleggersrecht eigen woning, `BEW`, gelden de volgende:
+        + bandbreedte-eis van 1:10
+        + minimale looptijd 15 jaar, of tot het overlijdenv an de verzekerde/rekeninghouder.
+        + maximale looptijd 30 jaar.
+        + eenmalige uitkering ter aflossing van de eigenwoningschuld van de belastingsplichtige of diens            partner.
+        + professionele bank of verzekeraar.
+        + belastingvrije uitkeringen (vrijstellingen).
+            + bij 15 jaar premiebetaling een vrijstelling van ongeveer EUR 37.500
+            + bij 20 jaar premiebetaling een vrijstelling van ongeveer EUR 163.000
+        + afhankelijk van de vorm kan er gespaard en/of belegd worden.
+        + de verhuisregeling geld voor 3 jaar.
+            + = de verzekerde verkoopt diens woning, gaat tijdelijk huren en vervolgens weer een woning                 koopt.
+        
+        
 ---
 
 ## Appendix
@@ -441,8 +507,10 @@ voor berekening van de uiteindelijke premie of koopsom maakt de verzekeraar gebr
 
 + Anw = Algemene Nabestaande Wet 
 + AOW = Algemene Ouderdoms Wet
++ BEW = Beleggersrecht Eigen Woning
 + DGA = Directeur Groot-Aandeelhouder
 + KEW = Kapitaalverzekering Eigen Woning
++ SEW = Spaarrekening Eigen Woning
 + WIA = Wet werk en inkomen naar arbeidsvermogen
 + Wlz = Wet Langdurige Zorg
 + WMK = Wet Medische Keuring
