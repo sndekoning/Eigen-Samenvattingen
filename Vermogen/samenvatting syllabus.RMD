@@ -464,7 +464,7 @@ Op basis van de bovenstaande indeling kan hieronder in de tabel een overzicht va
     + premiebetaling vind plaats tot de einddatum van de verzekering, of tot het overlijden van de              verzekerde.
     + koopsom is mogelijk, maar ongebruikelijk.
 
-Naast de standaard tijdelijke overlijdensrisicoverzekering (ORV) zijn er twee varianten:
+Naast de standaard tijdelijke overlijdensrisicoverzekering (`ORV`) zijn er twee varianten:
 
 1. lineair dalend.
     + elk jaar is de daling even veel.
@@ -498,7 +498,45 @@ Bij de kapitaalverzekering bij leven met restitutie is er uitkering als:
         + de verhuisregeling geld voor 3 jaar.
             + = de verzekerde verkoopt diens woning, gaat tijdelijk huren en vervolgens weer een woning                 koopt.
         
+    + op de `KEW` wordt de desbetreffende clausule opgenomen, bij een `SEW` en `BEW` is het niet mogelijk om     een clausule te plaatsen, in plaats daarvan zal de bank ze administreren als geblokkeerde rekeningen ten     behoeve van de eigen woning.
+        + na de maximale looptijd worden de `SEW` en `BEW` gedeblokkeerd.
+    + het gaat om de woning die door de belastingsplichtige of diens partner als hoofdverblijf ter              beschikking staat. d.w.z. vakantiewoningen zijn uigesloten.
+    + de vrijstelling is life time, d.w.z. iedere Nederlander heeft eenmaal in zijn leven recht op deze        vrijstelling. 
+    + sinds 01-01-2016 is het mogelijk voor de belastingsplichtige die het gehele jaar een fiscale partner      heeft de vrijstelling van die partner in de uitkering te betrekken. Nu komt de helft van de waarde in       mindering op de eigen vrijstelling.
+    + als de uitkering hoger is dan de vrijstelling, dan zal alleen het rentebestanddeel van het                niet-vrijgestelde deel van de uitkering worden belast.
+        + de volgende formule wordt hierbij gehanteerd:
+        $$((U-V)/U)*(U-P)$$
+        + waarbij $U$ = uitkering, $V$ = vrijstelling en $P$ = de som van de betaalde premies.
+        + dit bedrag dient te worden opgeteld in box 1, dus hierover wordt progressief afgerekend. 
+    + na 01-01-2013 is het niet meer mogeljk het eindkapitaal of de premie te verhogen, en is het niet meer     mogelijk nieuwe kapitaalverzekeringen/-rekeningen af te sluiten in box 1.
+        1. uitgezonderd: indien er op 31-12-2012 een eigen woning en een eigenwoningschuld aanwezig is mocht         er tot 01-04-2013:
+            + een nieuwe `KEW`, `SEW` of `BEW` gesloten worden, of een bestaande worden verhoogd qua premie             of inleg of de looptijd worden verlengt. 
+            + bestaande box 3-polis omgezet worden naar `KEW`, `SEW` of `BEW`.
+        2. uitgezonderd: tot 01-01-2014 mocht er nog een nieuwe `KEW`, `SEW` of `BEW` gesloten worden,              indien er op 31-12-2012 sprake was van:
+            + een onherroepelijke koopovereenkomst of de (ver)koopprijs moet in een echtscheidingsconvenant             zijn vastgesteld.
+            + een onherroepelijke koop-/aannemingsovereenkomst
+            + een offerte voor verbetering of onderhoud van de woning.
+    + Het omzetten van de verschillende vormen is mogelijk tot aan de einddatum.
+        + Het omzetten van een `KEW` met een gegarandeerd kapitaal naar een `SEW` met hetzelfde                     gegarandeerde kapitaal behoud het overgangsrecht.
+        + bij het omzetten van een `KEW` met een niet-gegarandeerd kapitaal moet worden uitgegaan van het           contractueel overeengekomen bedrag van de premie. Het overgangsrecht wordt behouden indien de inlig         van de `SEW` of `BEW` niet hoger is dan de totale `KEW`-premie.
+    + een losse `ORV` is voor het omzetten van een `KEW` naar een `SEW` of `BEW` niet verplicht, en heeft       indien wel al afgesloten geen fiscaal verband met deze.
+    + verschillen tussen de `KEW` en een `BEW`/`SEW` kunnen in onderstaande figuur gevonden worden.
+    ![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image10.jpg)
+    + bij scheiding:
+        + *splitsing*. De polissen worden gesplitst die worden gezien als fiscale voortzetting van de               eerste. 
+        + * toewijzing aan de andere partner*. Bij een niet-garantieproduct mag de totale premie stijgen.           bij een garantieproduct mag dit NIET.
+        + *afkopen*. De polis wordt afgekocht zonder fiscale consequenties. De 20-jaarsvrijstelling wordt           geïmputeerd.
+    + andere situaties wat tot uitkering leidt:
+        + verkoop van de woning met verlies.
+        + sprake van schuldsanering.
+        + overlijden.
+        + verkoop en verhuizing naar huurwoning.
+        + emigratie.
+    + bij een latere aankoop dient dit in mindering te worden gebracht op de nieuwe eigenwoningschuld.
         
+    
+
+    
 ---
 
 ## Appendix
@@ -510,6 +548,7 @@ Bij de kapitaalverzekering bij leven met restitutie is er uitkering als:
 + BEW = Beleggersrecht Eigen Woning
 + DGA = Directeur Groot-Aandeelhouder
 + KEW = Kapitaalverzekering Eigen Woning
++ ORV = Overlijdensrisicoverzekering
 + SEW = Spaarrekening Eigen Woning
 + WIA = Wet werk en inkomen naar arbeidsvermogen
 + Wlz = Wet Langdurige Zorg
