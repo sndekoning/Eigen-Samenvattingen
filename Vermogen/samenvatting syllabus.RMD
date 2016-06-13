@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ## 1. Algemeen.
-
+*(pg 3-6)*
 
 #### 1.1. De Drie Pijlers.
 
@@ -51,6 +51,8 @@ Geheel vrijwillig, en hoeven geen direct verband met de verrichte arbeid te hebb
 --- 
 
 ## 2. Levensverzekeringen algemeen.  
+
+*(pg 7-9)*
 
 #### 2.1. Definitie levensverzekering.
 
@@ -103,13 +105,15 @@ De vier redenen voor het afsluiten van een levensverzekering:
     + periodieke uitkering; voor gehele of gedeeltelijke vervanging van inkomen.
     + uitkering ineens; voor afbetaling openstaande leningen, uitvaart, of om enige tijd van te leven.
 3. *Inkomen voor de oude dag*
-    +pPeriodieke uitkering na bereiken bepaalde leeftijd. e.g. pensioen (via werkgever), lijfrente(prive).
+    + periodieke uitkering na bereiken bepaalde leeftijd. e.g. pensioen (via werkgever), lijfrente (prive).
 4. *Sparen voor toekomstige lasten.*
     + e.g. studieverzekering voor kind.
     
 ---    
     
 ## 3. Inhoud van de levensverzekeringsovereenkomst.
+
+*(pg 11-25)*
 
 #### 3.1. Het afsluiten van een levensverzekering.
 
@@ -122,10 +126,110 @@ In het onderstaande schema is aangegeven hoe het proces van afsluiting verloopt:
 2. *Aanvraagformulier en eventuele medische waarborgen*
     + niet van belang bij uitkering bij leven op een bepaalde datum.
     + types medische waarborgen:
-        + gezondheidsverklaring
-        + huisartsenkeuring (bij aanvangsrisico >250k)
+        + gezondheidsverklaring (vragenlijst)
+        + huisartsenkeuring (bij aanvangsrisico >250k ,ookwel vragengrens)
         + internistenkeuring (bij aanvangsrisico >500k)
+    + het aanvangsrisico is de schade voor de verzekeraar bij het overlijden of AO raken van de verzekerde      direct na afsluiting. Dit heeft geen gevolg voor de premie, wel bij een betaalde koopsom; dit vermindert     het aanvangsrisico.
+    + sinds 2012 veranderingen omtrent navraag doen ziektegeschiedenis van familieleden.
+        + *verzekerd bedrag onder de vragengrens*: GEEN vragen over erfelijke aandoeningen binnen de                familie, of dat verzekerde drager is. Als verzekerde wel ziek is, is hij verplicht dit te melden.
+        + *verzekerd bedrag boven de vragengrens*: WEL vragen over erfelijke aandoeningen binnen de familie,         indien aanwezig en is de verzekerde onderzocht, dient hij de uitslag te melden. De verzekeraar kan          NIET verplichten tot het ondergaan van een onderzoek.
+    + indien de verzekerde een bestaande levensverzekering wil aanpassen en het risico wordt hierdoor groter     voor de verzekeraar, mag deze opnieuw om gezondheidswaarborgen vragen.
+    + bij een verzekering die uitkeert bij leven zal een verzekeraar vragen om medische waarborgen als de       verzekerde eerder wil uitkeren. Dit ter voorkoming dat iedereen die ongezond is, eerder de verzekering      zal willen afkopen.
+    + Wet op de Medische Keuringen, `WMK`, geld sinds 01-01-1998.
+        + ter bescherming van mensen met gezondheidsproblemen zodat zij een arbeidscontract aan kunnen gaan         en verzekeringen tegen "normale" premies en voorwaarden kunnen afsluiten.
+        + de wet stelt dat alleen keuringen mogen worden gedaan indien de bewuste functie bijzondere                gezondheidseisen stelt voor het uitoefenen van de werkzaamheden.
+        + werknemers mogen NIET gekeurd worden voor verzekeringen die zij via hun werkgever kunnen                  afsluiten. Denk hierbij aan pensioenverzekeringen, aanvullende arbeidsongeschiktheidsverzekeringen          en verzekeringen die door de werkgever worden afgesloten om het financiële risico van de werknemer          bij ziekte en arbeidsongeschiktheid te beperken. 
+        + uitzonderingen op het hierbovenstaande zijn: pensioen- of arbeidongeschiktheidsverzekeringen              'DGA', bijzondere beroepen (e.g. piloot of stratenmaker) of indien een werknemer in eerste                  instantie niet wil meedoen met de collectiviteiten via een werkgever maar later toch wil deelnemen          (spijtoptanten).
+    + Wet op de Geneeskundige Behandelingsovereenkomst, `WGBO`. Deze wet beschrijft de rechten en plichten      van cliënten in de zorg. In het geval van onderzoeken of behandelen in medische context, is deze wet van     kracht. Het gaat dan om de volgende rechten en plichten voor de patiënt: 
+        + recht op informatie over de medische situatie
+        + toestemming voor een medische behandeling
+        + inzage in het medisch dossier
+        + recht op privacy en geheimhouding van medische gegevens (het beroepsgeheim)
+        + recht op vrije artsenkeuze
+        + vertegenwoordiging van patiënten die niet zelf kunnen beslissen.
+        + de patiënt dient de zorgverlener goed, eerlijk en volledig op de hoogte te stellen van de                 problematiek.
+        + de patiënt dient zo veel mogelijk meewerken en adviezen opvolgen
+        + bij uitzondering mag een arts zonder toestemming een medische ingreep doen, ter voorkoming van            sterfte of het verkrijgen van een ernstige handicap. Dit mag ook onder dwang.
+    + voorlopige dekking houdt in dat de verzekerde al verzekerd is voordat de verzekering daadwerkelijk is     afgesloten. Na verdere beoordeling kan de verzekering nog steeds worden afgewezen of tegen beperkende       voorwaarden aan te bieden. Bij wijzigingen van de gezondheid in deze periode dient de verzekerde deze       bij de verzekeraar door te geven. Voor deze periode geldt: 
+        + dekking voor het risico van overlijden.
+        + voor een beperkte termijn van max. 30 dagen.
+        + tot een max. verzekerd bedrag van EUR 160.000.
+3. *Onderzoek naar de gezondheid*
+    + a.d.h.v. de gezondheidsverklaringen of medisch onderzoek kan de verzekeraar aanvullende gegevens          opvragen bij de huisarts of internist. Hiervoor is toestemming van de verzekerde nodig.
+    + de medisch adviseur van de verzekeraar beoordeelt de gegevens en leidt tot:
+        + een acceptatie
+        + een acceptatie met bijzondere voorwaarden, deze kunnen zijn:
+            + een lager verzekerd kapitaal
+            + een hogere premie
+            + een kortere looptijd van de verzekering
+            + een wachttijd (carentztijd)
+            + een andere verzekeringsvorm
+            + een uitsluiting (tijdelijk of blijvend)
+            + een combinatie van de voorgenoemde voorwaarden.
+        + een afwijzing.
+    + de carentztijd is de wachtijd in de dekking als de kandidaat-verzekerde een risico loopt waarvan          vooraf al bekend is dat deze zal verdwijnen. 
+        + Alleen mogelijk bij verzekeringen die niet via een werkgever worden afgesloten. Dit is sinds          01-01-2010. Zie het Van Leeuwen-convenant ter verbetering van de arbeidsparticipatie en                     arbeidsmobiliteit van gehandicapte of chronisch zieke werknemers.
+    + Levensverzekeraar De Hoop is een verzekeraar voor mensen van wie bekend is dat acceptatie bij gewone      verzekeraars lastig gaat worden, of wie al meerdere afwijzingen hebben gehad.
+        + De hoop is een herverzekeraar, de verzekering loopt bij de verzekeraar waarbij de aanvraag is             gedaan, en deze herverzekert het bij De Hoop. De klant betaald wel een hogere premie vanwege het            hogere risico.
+4. *De verzekering komt tot stand*
+    + deze komt pas tot stand na acceptatie van de verzekeraar, zelfs in het geval van voorlopige dekking
+5. *De afkoelingsperiode*
+    + bij een verzekering met een looptijd van langer dan zes maanden, geldt er een opzegtermijn. d.w.z. de     verzekernemer kan minimaal dertig dagen na tot het tot stand komen van de verzekering deze zonder opgaaf     van reden opzeggen. Dit kan uitsluitend schriftelijk.
+6. *De polis*
+    + het bewijs van bestaan van de verzekering.
+    + hier moet in ieder geval de volgende zaken op staan:
+        + de ingangsdatum
+        + de naam van de verzekerde
+        + de naam van wie het leven is verzekerd
+        + de tijdsperiode waarin het risico is verzekerd
+        + de verzekerde som
+        + de verschuldigde premie
+        + de begungstigde.
+    + hiernaast ontvangt de verzekeringsnemer:
+        + de algemene polisvoorwaarden
+        + clausulebladen
+        + polisvoorwaarden voor aanvullende dekkingen.
+    + bij verlies van de originele polis is het meestal mogelijk een duplicaatpolis aan te vragen. Hierbij      dient de verzekernemer een akte van vrijwaring te ondertekenen dat het origineel verloren is gegaan en      dat hij de maatschappij vrijwaart tegen eventuele aanspraken die tegenover haar op grond van de             originele polis worden ingesteld.
+    + Het moment van het tot stand komen van de polis en het risico-ingang zijn niet altijd hetzelfde.          Afwijkingen zijn te vinden in de polisvoorwaarden.
 
+#### 3.2 De rechten van de verzekeringnemer
+
+De belangrijkste rechten van de verzekeringnemer zijn:
+
+1. *aanwijzing of wijzingen van de begunstiging*
+    + indien er niets is geregeld is de volgende standaardbegunstiging van toepassing:
+        1. verzekeringnemer
+        2. echtgenoot/geregistreerd partner van de verzekeringnemer
+        3. kinderen van de verzekeringnemer
+        4. erfgenamen van de verzekeringnemer
+    + er zijn twee vormen van begunstiging:
+        1. *de niet-aanvaarde begunstiging*, standaard, de verzekeringsnemer behoud ten alle tijden het             recht iemand anders aan te wijzen als begunstigde.
+        2. *de aanvaarde begunstiging*, de begunstigde heeft schriftelijk expliciet de begunstiging                 aanvaard. De verzekeringsnemer kan geen handelingen meer uitvoeren die ten nadeel van de begunstigde         zijn. Wijzigingen zijn alleen mogelijk met toestemming van de begunstigde.
+2. *afkoop*
+    + uitbetaling van de waarde van de verzekering. Hierna is de verzekering beëindigd. Dit kan fiscale         gevolgen hebben.
+    + de volgende voorwaarden zijn noodzakelijk voor afkoping:
+        1. er is een recht op een stellige (zekere) uitkering
+        2. de verzekering heeft een bepaalde waarde.
+3. *niet meer betalen van de premie*
+4. *belening*
+5. *conversie*
+    
+---
+
+## Appendix
+
+#### Begrippen
+
++ Anw = Algemene Nabestaande Wet 
++ AOW = Algemene Ouderdoms Wet
++ DGA = Directeur Groot-Aandeelhouder
++ WIA = Wet werk en inkomen naar arbeidsvermogen
++ Wlz = Wet Langdurige Zorg
++ WMK = Wet Medische Keuring
++ WGBO = Wet op de Geneeskundige Behandelingsovereenkomst
++ WW = Werkloosheids Wet
+        
+    
 
 
 
