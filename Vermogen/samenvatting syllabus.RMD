@@ -433,6 +433,8 @@ voor berekening van de uiteindelijke premie of koopsom maakt de verzekeraar gebr
     + kunnen alleen via de verzekeraar zelf worden aangevraagd.
     + Gaat om specialistische berekeningen of actuele feiten zoals rentestanden.
 
+---
+
 ## 5 Soorten levensverzekeringen
 
 *(pg 35-53)*
@@ -533,15 +535,414 @@ Bij de kapitaalverzekering bij leven met restitutie is er uitkering als:
         + verkoop en verhuizing naar huurwoning.
         + emigratie.
     + bij een latere aankoop dient dit in mindering te worden gebracht op de nieuwe eigenwoningschuld.
-        
+2. *Brede Herwaarderingspolis/periode*, polissen gesloten tussen 01-01-1992 en 14-09-1999 (hierbij rekening te houden met de looptijd en het moment van uitkeren)
+    + tijdens de looptijd:
+        + polissen vallen in box 3.
+        + de gezamelijke waardevrijstelling in box 3 voor vermogenrendementsheffing is EUR 123.428.
+            + indien de waarde op 31-12-2000 hoger dan EUR 123.428 is, dan wordt de vrijstelling in box 3 de             waarde op 31-12-2000.
+            + indien de waarde na 01-01-2001 hoger dan EUR 123.428 is, dan wordt het meerdere meegenomen                voor de vermogensrendementsheffing.
+            + de vrijstelling mag worden verdubbeld met een fiscaal partner.
+            + deze vrijstellingen komen te vervallen met ingang van 14-09-2029.
+    + moment van uitkeren.
+        + belast in box 1.
+        + de polis is onbelast indien:
+            + bandbreedte-eis van 1:10.
+            + minimale looptijd van 15 jaar.
+            + eenmalige uitkering.
+            + het verzekerde kapitaal is na 13-09-1999 niet verhoogd.
+            + de duur van de verzekering is na 13-09-1999 niet verlengd.
+            + uitkeringsvrijstelling van:
+                + EUR 28.134 bij 15 jaar.
+                + EUR 123.428 bij 20 jaar.
+                + indien hoger, saldomethode.
+    + sinds 01-01-2016 is het mogelijk om de vrijstelling van een fiscale partner van >= 1 jaar in              mindering op de eigen vrijstelling te betrekken.
+3. *Pre-Brede Herwaarderingspolis*, polissen gesloten voor 01-01-1992.
+    + polissen vallen in box 3
+    + op het moment van uitkeren: 
+        + voor onbeperkte vrijstelling van box 1 moet:
+            + er een variabele bandbreedte zijn.
+            + er een minimale looptijd van 12 jaar zijn.
+            + het verzekerde kapitaal na 01-01-1992 niet zijn verhoogd.
+            + de duur van de verzekering na 01-01-1992 niet zijn verlengd.
+        + tot 01-04-2013 konden deze polissen omgezet worden naar een `KEW`/`BEW`/`SEW`.
+            + de vrijstelling in box 1 werd verhoogd met de waarde op het moment van verpanden.  
+            
+**NB.** Belastingvrije uitkeringen vallen onder de imputatieregeling, d.w.z. deze tast de vrijstelling aan. Dus, de lifetime-vrijstelling wordt gekort (geïmputeerd) met de uitkering van een vrijgestelde `KEW`. Sinds 01-01-2016 vallen ook de `SEW` en `BEW` onder de imputatieregeling. 
+
+#### 5.6 Uitvaartverzekering en uitvaartbankrekening.
+
+De uitvaart verzekering is een levenslange overlijdensrisicoverzekering, deze keert alleen uit bij het overlijden. i.t.t. andere `ORV` heeft de uitvaartverzekering een waarde, en heeft een beperkte vrijstelling van EUR 7.000 in box 3. Als deze waarde wordt overtroffen, dan wordt de *gehele* waarde in de heffing betrokken. Het vrijgestelde bedrag is geïndexeerd aan de inflatie.
+De twee soorten uitvaartverzekeringen:
+
+1. *Kapitaalverzekering*. De begunstigde krijgt een bedrag uitgekeerd waarmee hij de uitvaart betaalt.
+2. *Naturaverzekering*. De begunstigde krijgt geen geld. De uitvaart zelf, komt voor rekening voor de verzekeraar. Hierbij wordt vaak een standaarpakket gehanteerd waarbij extra's via aanvullende verzekeringen kunnen worden geregeld.   
+
+Van 01-01-2010 tot 01-01-2016 was het mogelijk te sparen via een geblokkeerde uitvaartrekening. Dit product werd niet in de praktijk aangeboden, dus de vrijstelling is vervallen.
+
+#### 5.7 Lijfrenteverzekering.
+
+Dit is een periodieke uitkering bij leven. Twee vormen:
+
+1. *direct ingaande lijfrente*. Deze start direct na ontvangst van de koopsom en gaat door tot de gekozen einddatum.
+    + hieronder schematisch de verschillende vormen aangegeven:
+    ![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image11.jpg)
+2. *uitgestelde lijfrente*. Deze gaat in op een vooraf gesproken moment tot de gekozen einddatum.
+    + hieronder schematisch de verschillende vormen aangegeven:
+    ![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image12.jpg)
     
 
+Een periodieke uitkering ten behoeve van de nabestaande kent de volgende vormen:
+
+* Overlevingsrente/nabestaandenlijfrente.
+    + uitgestelde lijfrente
+    + een periodieke uitkering bij het overlijden van de verzekerde t.b.v. de medeverzekerde, mits deze in     leven is.
+        + *levenslang*. Keert uit vanaf het overlijden van van de verzekerde voor de einddatum en uit tot         en met het overlijden van de medeverzekerde.
+        + *tijdelijk*. Keert uit vanaf het overlijden van de verzekerde voor de einddatum en uit tot de           einddatum of het overlijden van de medeverzekerde.
+    + komt de medeverzekerde eerder te overlijden dan de verzekerde, vervalt de verzekering.
+    + premiebetaling is vanaf de ingangsdatum tot het moment van uitkeren of tot het overlijden van de        medeverzekerde.
+    + specifieke vormen van overlevingsrente: weduwenrenteverzekering, weduwnaarsrenteverzekering en de       wezenverzekering.
+* Erfrente.
+    + een speciale vorm van tijdelijke kapitaalverzekering bij overlijden.
+    + geen uitkering ineens, maar van een jaarlijkse rente tot de einddatum van de verzekering.
+    + slechts uitkering als de verzekerde komt te overlijden voor de einddatum van de verzekering, daarna     vervalt de verzekering.
+    + uitkeringen zijn niet afhankelijk van leven of dood van de begunstigde.
+    + indien er een waarde is, dan vermogensrendementsheffing in box 3.
+    + periodieke uitkeringen zijn onbelast.
+    + premiebetaling eindigt met het overlijden van de verzekerde.
+    + discontoclausule = het ineens laten uitbetalen van de periodieke uitkeringen.
+        + dit is lager dan het totaal aan periodiek uitkeringen, vanwege het gemis aan rente voor de              verzekeraar.
+
+---
+
+## 6 Lijfrenten
+
+*(pg 55-79)*
+
+---
+   
+## 7 Wet Inkomstenbelasting 2001
+
+*(pg 81-98)*
+
+---
+
+## 8 Erfrecht en successiewet
+
+*(pg 99-114)*
+
+--- 
+
+## 9 Sociale zekerheid en voorzieningen
+
+*(pg 115-128)*
+
+---
+
+## 10 Werknemerspensioen
+
+*(pg 131-147)*
+
+#### 10.1 Wat is een werknemerspensioen?
+
+Een werknemerspensioen is een voorziening voor de oude dag, na overlijden of bij arbeidsongeschiktheid van de werknemer die hij kan regelen via de werkgever.
+    + zowel de werkgever als de werknemer betaalt een deel van de pensioenspremie.
+        + Het door de werknemer betaalde deel is de eigen bijdrage, waarover geen loonbelasting is                verschuldigd.
+    + de pensioensgerechtigde is de persoon die de pensioenuitkering ontvangt. i.e. de ex-werknemer, diens     partner of diens nabestaanden.
+    + over de pensioensuitkering is belasting verschuldigd vanuit box 1. 
+        + de pensioenuitvoerder draagt een voorheffing loonbelasting af.
+
+3 soorten pensioen:
+
+1. *ouderdomspensioen*. Komt toe aan de werknemer op het moment van het bereiken van de pensioensgerechtigde leeftijd.
+2. *partnerpensioen*. Komt toe aan de partner en kinderen van de werknemer als deze overlijdt.
+    + partnerpensioen: voor de partner, hoeft niet gehuwd te zijn, maar wel samenwonend. 
+    + wezenpensioen: voor de kinderen tot aan de leeftijd van maximaal 30.
+3. *arbeidsongeschiktheidspensioen*. Komt toe aan de werknemer indien hij arbeidsongeschikt wordt.
+    + uitkering na de eerste 104 weken van ziekte. Werkgever betaald loon door tot die tijd.
+    + premievrijstelling is afhankelijk van percentage arbeidsongeschiktheid.
+    
+Er is geen algemene pensioenplicht voor de werkgever, noch is het verplicht alle soorten pensioen aan te bieden.
+
+Uitvoerders van pensioenen zijn:
+
+* *ondernemingspensioenfondsen*
+    + een onderneming brengt de pensioengelden van diens werknemers in een eigen pensioenfonds. Voor grote     ondernemingen.  
+* *bedrijfstakpensioenfondsen*
+    + alle bedrijven van een specifieke tak brengen de gelden samen in een fonds. Valt vaak onder de         CAO-afspraken. e.g. bouwnijverheid, detailhandel, metaalnijverheid en zorg en welzijn.
+* *beroepspensioenfondsen*
+    + Is volgens de Wet verplichte beroepsregeling `Wvb`verplicht voor bepaalde beoefenaren. e.g. medisch     specialisten, notarissen, advocaten, huisartsen en dierenartsen. waarbij bij uitzondering zowel de        eigenaar van het bedrijf als de werknemers deelnemers zijn aan het fonds.
+* *verzekeraars*
+    + deze voeren de pensioenovereenkomst uit voor ondernemingen als deze niet onder een voorgenoemde         categorie valen, of als er een overeenkomst is boven op de overeenkomst van een ander categorie.
+* *premiepensioeninstellingen*
+    + bij een premiepensioeninstelling is het alleen mogelijk een premie te beleggen om vermogen op te        bouwen. Er mag geen risico's verzekerd worden. e.g. een periodieke uitkering zolang de ex-werknemer       leeft, periodieke uitkering voor de nabestaanden en en een periodieke uitkering bij                       arbeidsongeschiktheid.
+    + garanties op het rendement zijn niet toegestaan.
+    + er wordt premie betaald, wat wordt belegd. Het vermogen op de einddatum is de ingelegde premies +       rendement.
+    + de gerechtigde kan een periodieke uitkering aankopen totdat het geld op is.
+    + bestaat sinds 01-01-2011.
+
+#### 10.2 De pensioenovereenkomst
+
+In een cao kan een verplichting tot het aangaan van een pensioenovereenkomst opgenomen zijn. Indien aanwezig is de werkgever gebonden deze na te komen volgens de Pensioen Wet, `PS`. De werkgever moet de uitvoering van het pensioen overdragen aan een pensioenuitvoerder. Dit staat bekend als de onderbrengingsplicht of waarborgingsvoorschrift. 
+
+Hieronder staat schematisch de verhoudingen tussen de werknemer, werkgever en pensioenuitvoerder aangegeven.
+
+![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image13.jpg)
+
+* Uitvoeringsovereenkomst.
+    + tussen werkgever en pensioenuitvoerder.
+    + eisen volgens `PW` m.b.t.: 
+        + vastelling van de premie.
+        + tijdigheid van betaling.
+        + toeslagbeleid.
+        + procedures bij wijziging van het reglement.
+        + premiekorting.
+        + terugstorting van premies.
+* Pensioenovereenkomst.
+    + tussen werknemer en werkgever.
+    + binnen een maand is de werkgever de werknemer verplicht te informeren over het sluiten van een          pensioenovereenkomst.
+    + de werkgever moet kenbaar maken aan de werkgever wie de pensioenuitvoerder is.
+    + de inhoud ligt vast in de arbeidsovereenkomst en het pensioenreglement.
+    
+3 soorten pensioenovereenkomsten.
+
+1. *uitkeringsovereenkomst*
+    + garandeert hoogte van de maandelijkse uitkering.
+    + uitkering is geïndexeerd.
+    + beleggingsrisico ligt bij de uitvoerder.
+    + e.g. eindloon- en middelloonregeling.
+2. *kapitaalovereenkomst*
+    + garandeert een vast eindkapitaal.
+    + deelnemer 'shopt' op de einddatum om een zo hoog mogelijk pensioen te ontvangen
+    + beleggersrisico gedeeltelijk bij de uitvoerder gedurende opbouw.
+    + beleggersrisico gedeeltelijk bij de werkemer, onbekend op einddatum hoeveel pensioen er aangekocht      kan worden.
+3. *premieovereenkomst*
+    + er wordt een van tevoren afgesproken premie overgemaakt.
+    + hiermee wordt doorgaans een beleggig aangekocht (zuivere premieovereenkomst).
+    + er kan soms sprake zijn van een gegarandeerd kapitaal en/of met de inleg worden gelijk maandelijkse     uitkering ingekocht (niet-zuivere premieovereenkomst).
+    + het beleggingsrisico ligt dus meestal volledig bij de deelnemer, tenzij sprake van een gegarandeerd     kapitaal of maandelijkse uitkering.
+    
+Om heldere en begrijpelijk informatie aan de werknemer te garanderen wordt er gebruik gemaakt van de Pensioen 1-2-3, welke in drie lagen de deelnemer informeerd over de inhoud van de regeling. Deze wordt sinds 01-07-2016 verplicht. 
+
+1. *Eerste laag*. De deelnemer krijgt in vijf minuten een globaal inzicht in zijn pensioenregeling.
+2. *Tweede laag*. De deelnemer krijgt diepgaander informatie over de pensioenregeling.
+3. *Derde laag*. De deelnemer krijgt hier gedetailleerde informatie, zoals het regelement, het jaarverslag     en de statuten.
+    + de pensioenuitvoerder is volgens de `PW` verplicht om het reglement op te stellen.
+    + de werknemer krigt het reglement niet automatisch, maar kan dit opvragen bij diens werkgever.
+    
+Sinds 2008 krijgen alle werknemers met een pensioenvoorziening het jaarlijkse Uniform Pensioen Overzicht, `UPO`. 'Slapers', d.w.z. ex-werknemers onder de pensioengerechtigde leeftijd, krijgen dit overzicht elke 5 jaar. Het zelfde geld voor ex-partners met een pensioenverevening via echtscheiding.
+
+Op het `UPO` worden de volgende vragen beantwoord: 
+    + Voor wie is dit pensioenoverzicht?
+    + Welk pensioen kunt u verwachten? / Welk kapitaal kunt up opbouwen?
+    + Houdt uw pensioen zijn waarde?
+    + Op welke gegevens is uw pensioenoverzicht gebaseerd?
+    + Wat is uw pensioenaangroei?
+    
+#### 10.3 Pensioenregister
+
+Hieronder een schematisch overzicht van de verschillen tussen het Pensioenregister en het `UPO`
+
+![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image14.jpg)
+
+#### 10.4 100%-norm
+
+De richtlijn voor de opbouw is 75% van het gemiddeld genoten salaris inclusief `AOW` in een periode van 40 jaar. Als men langer dan 40 jaar werkt is het fiscaal mogelijk hoger dan deze 75% op te bouwen tot een maximaal 100% van het laatstgenoten salaris.
+
+Op 3 momenten wordt er door de fiscus gekeken of een regeling voldoet aan de 100% norm.
+    + op het moment an ontstaan van de aanspraak op het pensioen.
+    + waarop de pensioenuitkeringen ingaan.
+    + van emigratie van werknemer. 
+    
+Uitzonderingen op de 100%-norm zijn:
+    + door variabele pensioenuitkeringen.
+         + de laagste pensioenuitkering mag niet minder zijn dan 75% van de hoogste pensioenuitkering.
+         + de variatie mag bepaald zijn voor of op de dag dat het pensioen ingaat.
+    + het omruilen van Nabestaanden- of Partnerpensioen in Ouderdomspensioen.
+    + het aanpassen van pensioenen aan de loon- en prijsontwikkeling.
+        + dit kan door:
+            + *waardevaste indexatie* = volgen de ontwikkeling van het consumentenprijsindex
+            + *welvaartsvaste indexatie* = volgen de ontwikkeling van het loonindexcijfer.
+        + andere manieren van pensioenuitkering zijn: 
+            + *nominale waarde* = vast bedrag, geen stijging meer na pensionering.
+            + *toeslag* = stijging volgens een voorgenomen stijgingspercentage met samengestelde rente.
+    + het overdragen van waarde van pensioenen opgebouwd bij een andere werkgever. De opgebouwde              pensioenen mogen worden meegenomen naar de nieuwe pensioenuitvoerder.
+
+In een pensioenovereenkomst met een partnerpensioen dat niet verzekerd is op risicobasis is verplicht de werknemer de keuze aan te bieden:
+    + een partnerpensioen.
+    + een hoger of eerder ingaand ouderdomspensioen.
+
+Verzekerd op risicobasis wil zeggen dat er geen partnerpensioen wordt opgebouwd, er is dan een risicoverzekering in de plaats. Er is dan geen uitkering als de werknemer overlijdt na het einde van diens dienstverband, maar voor ingang van de pensioendatum, omdat de verzekering dan al is beëindigd. 
+    + Hierop is de uitzondering onbetaald verlof van max. 18 maanden en het ontvangen van een                 WW-uitkering.
+    
+#### 10.5 Toetreding
+
+Toetreding hangt af van:
+    + toetredingsleeftijd
+        + maximale toetredingsleeftijd van 21 jaar.
+    + wachttijd of drempelperiode.
+        + wachtijd: over deze periode wordt geen pensioen opgebouwd en ook niet ingehaald.
+        + drempelperiode: over deze periode wordt geen pensioen opgebouwd, maar wel ingehaald.
+        
+#### 10.6 Gelijke Behandeling
+
+Geen discriminatie in welke vorm toegestaan.
+    + mannen en vrouwen
+    + tijdelijke en vaste medewerkers
+    + personen met verschillende leeftijden.
+    + part-time en full-time
+    + soorten partners
+    + gepensioneerde en slapers. 
+    
+#### 10.7 Afkoop kleine pensioenaanspraken
+
+Afkoop van pensioen is niet toegestaan m.u.v. kleine pensioenen = jaarlijkse uitkering < EUR 475.
+Dit is alleen een recht van de pensioenuitvoerder, en kan op 2 manieren gebeuren:
+
+1. * zonder toestemming*. Afkoop na twee jaar na beëindiging pensioenregeling, en de deelnemer heeft geen verzoek tot waardeoverdracht gedaan.
+2. *met toestemming*. Afkoop na twee en een half jaar na beëindiging pensioenregeling. 
+
+#### 10.8 Waardeoverdracht
+
+* *waardeoverdracht bij wisseling van werkgever*
+    + een werknemer kan zijn opgebouwde pensioengelden meenemen naar zijn nieuwe pensioenuitvoerder als       hij van baan wisselt. 
+    + sinds 01-01-2015 is er geen termijn meer waarbinnen de waardeoverdracht moet worden aangevraagd.
+        + wisselingen hiervoor die de termijn van 6 maanden hebben gemist kunnen niet meer verzoeken om           waardeoverdracht. Dit kan pas weer na een nieuwe baanwijzigingen.
+    + pensioenuitgevers zijn verplicht om hier aan mee te werken m.u.v.:
+        1. de financiële toestand van de nieuwe of oude uitvoerder is niet toereikend voor overdracht.
+        2. de opgebouwde aanspraken zijn van een pensioenregeling die voor 08-09-1994 is geëindigd.
+* *collectieve waardeoverracht op verzoek van de werkgever*
+    + op initiatief van de werkgever.
+    + de belangrijkste bepalingen hierbij zijn:
+        + de deelnemers mogen geen bezwaar hebben tegen de overdracht.
+        + de toezichthouder (DNB) mag geen bezwaar hebben tegen de overdracht.
+        + de overdrachtswaarde stelt de uitvoerder vast op basis van collectieve actuariële                       gelijkwaardigheid.
+        
+Soorten wisselingen:
+
+* Inkoop dienstjaren:
+    + beschikbare premieregeling -> eindloon/middelloon
+    + kapitaalovereenkomst -> eindloon/middelloon
+    + eindloon <-> middelloon
+* Aanwezige afkoopwaarde:
+    + eindloon/middelloon -> beschikbare premieregeling
+    + beschikbare premieregeling <-> kapitaalovereenkomst. 
+    
+#### 10.9 Overige bepalingen
+
+* Uitruil van ouderdomspensioen
+    + dit kan op pensioendatum of datum van beëindiging van deelname aan de regeling.
+    + het partnerpensioen mag niet hoger worden dan 70% van het ouderdomspensioen.
+* Verjaringstermijn
+    + er is geen verjarings termijn; een pensioensgerechtigde kan altijd zijn pensioengelden claimen.
+* Betalingsachterstanden
+    + De werkgever betaald de premie aan de pensioenuitvoerder, dus inclusief:
+        + het werknemersdeel
+        + de eigen bijdrage van de werknemer
+        + de premie voor vrijwillige regelingen
+    + De termijn waarbinnen de premie moet worden afgedragen in een maand na afloop van het                   kalenderkwartaal.
+        + achterstanden die een mindering van het pensioen worden verplicht vermeld aan de deelnemer.
+    + Deelnemers kunnen de premie rechtstreeks doorbetalen na beëindiging van het dienstverband.
+    
+#### 10.10 Zorgplicht volgens WFT
+
+Onderstaand schema geeft weer wanneer de WFT van toepassing is:
+
+![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image15.jpg)
+
+De hoofdregel van de `PW` is dat de pensioenuitvoerder verantwoordelijk is voor de beleggingen en dient te beleggen in het belang van de deelnemers. Dit is de 'prudent person-regel'. De uitvoerder belegt minder risicovol naarmate de pensioendatum dichterbij komt. Ofwel de `WFT`, ofwel de `PW`is van toepassing betreft zorgplicht.  
+De deelnemer kan de verantwoordelijkheid van de beleggingen op zichzelf nemen. In dit geval zijn de bepalingen van de `WFT` van toepassing, dus moet er een klantprofiel aangemaakt worden, en hier in het advies over de beleggingen rekening mee houden.
+
+---
+
+## 11 Pensioenberekeningen en -systemen
+
+*(pg 149-164)*
+
+---
+
+## 12 De zelfstandig ondernemer en de oude dag
+
+*(pg 165-173)*
+
+--- 
+
+## 13 De DGA en de oude dag
+
+*(pg 175-184)*
+
+---
+
+## 14 Balanslezen
+
+*(pg 185-193)*
+
+--- 
+
+## 15 De macro-economische omgeving
+
+*(pg 195-200)*
+
+--- 
+
+## 16 Wetgeving en zorgplicht
+
+*(pg 203-221)*
+
+---
+
+## 17 Het klantprofiel
+
+*(pg 223-239)*
+
+---
+
+## 18 Beleggingscategorieën
+
+*(pg 241-255)*
+
+---
+
+## 19 Beleggingsfondsen
+
+*(pg 257-268)*
+
+---
+
+## 20 Risico en Rendement
+
+*(pg 269-276)*
+
+---
+
+## 21 Beheer en mutatie van beleggingsportefeuilles
+
+*(pg 279-283)*
+
+---
+
+## 22 Professioneel gedrag
+
+*(pg 285-311)*
+
+---
+
+## 23 Integriteit
+
+*(pg 313-335)*
+
+---
+
+## 24 Adviesvaardigheden
+
+*(pg 337-357)*
+
+---
     
 ---
 
 ## Appendix
 
-#### Begrippen
+#### Afkortingen
 
 + Anw = Algemene Nabestaande Wet 
 + AOW = Algemene Ouderdoms Wet
@@ -549,11 +950,14 @@ Bij de kapitaalverzekering bij leven met restitutie is er uitkering als:
 + DGA = Directeur Groot-Aandeelhouder
 + KEW = Kapitaalverzekering Eigen Woning
 + ORV = Overlijdensrisicoverzekering
++ PW = Pensioen Wet
 + SEW = Spaarrekening Eigen Woning
++ UPO = Uniform Pensioenoverzicht
 + WIA = Wet werk en inkomen naar arbeidsvermogen
 + Wlz = Wet Langdurige Zorg
 + WMK = Wet Medische Keuring
 + WGBO = Wet op de Geneeskundige Behandelingsovereenkomst
++ Wvb = Wet verplichte beroepsregeling
 + WW = Werkloosheids Wet
         
     
