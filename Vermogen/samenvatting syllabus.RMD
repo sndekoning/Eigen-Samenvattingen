@@ -610,13 +610,93 @@ Een periodieke uitkering ten behoeve van de nabestaande kent de volgende vormen:
     + periodieke uitkeringen zijn onbelast.
     + premiebetaling eindigt met het overlijden van de verzekerde.
     + discontoclausule = het ineens laten uitbetalen van de periodieke uitkeringen.
-        + dit is lager dan het totaal aan periodiek uitkeringen, vanwege het gemis aan rente voor de              verzekeraar.
+        + dit is lager dan het totaal aan periodiek uitkeringen, vanwege het gemis aan          rente voor de verzekeraar.
 
 ---
 
 ## 6 Lijfrenten
 
 *(pg 55-79)*
+
+#### 6.1 Wat is een lijfrente?
+
+Lijfrenten zijn toekomstvoorzieningen. Bijvoorbeeld ter aanvulling van AOW en pensioen. Voor 01-01-2008 was het alleen mogelijk een lijfrente te ontvangen via een verzekering, sedert is het ook mogelijk een periodieke uitkering van een saldo van een bankrekening.  
+
+Onderstaand schematisch weergegeven wat een lijfrente is.
+![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image18.jpg)
+
+#### 6.2 Opbouw- en uitkeringsfase
+
+Twee fases:
+
+1. *opbouwfase* = geen uitkering, klant bouwt kapitaal op.
+2. *uitkeringsfase* = een periodieke en vaste uitkering. Ook wel de afbouwfase.
+
+#### 6.3 Benamingen van lijfrenteverzekeringen
+
+![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image19.jpg)
+
+#### 6.4 Huidige fiscale behandeling lijfrenten.
+
+Lijfrenteverzekeringen worden in box 3 belast, dus de premies zijn aftrekbaar in box 1. De uitkeringsgerechtigde betaalt inkomensbelasting over de uitkeringen.
+De hoogte van het bedrag dat in box 1 mag worden afgetrokken is afhankelijk van:
+
+* het inkomen in box 1 in het jaar voor aftrek van de inleg.
+* de hoogte van de pensioenopbouw voor het jaar van aftrek van de inleg.  
+
+Box 3-lijfrenten worden belast tegen 30% inkomsten belasting tegen 4% van de waarde, terwijl de uitkeringen zelf niet worden belast.
+
+#### 6.5 Toegestane lijfrentevormen
+
+Drie lijfrentevormen die vaak worden toegepast:
+
+1. de levenslange oudedagslijfrente
+2. de tijdelijke oudedagslijfrente
+3. de nabestaandenlijfrente
+
+Deze kunnen zowel via verzekering als via een rekening worden afgesloten.
+De volgende vormen zijn alleen via verzekering af te sluiten.
+
+1. de overbruggingslijfrente
+2. de lijfrente voor een meerderjarig invalide kind
+3. de lijfrente voor de afkoop van alimentatie en/of ter verrekening van pensioenrechten
+
+
+* Onderstaand de verschillen tussen de tijdelijke en levenslange oudedagslijfrente.
+
+![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image20.jpg)
+
+De lijfrente-uitkeringen moeten uiterlijk ingaan op het kalenderjaar waarop de ontvanger 5 jaar boven de AOW-gerechtigde leeftijd is gekomen. Uitzonderingen hierop zijn bij stakingswinst of oudedagsreserve.
+
+Als overgangsrecht voor de verandering van de pensioensleeftijd mogen mensen die via een bancaire of verzekerde lijfrente kapitaal hebben opgebouwd tot en met 2013 mogen nog een tijdelijke oudedagslijfrente aankopen vanaf de leeftijd van 65 jaar.
+
+Hieronder een tabel met verschillen tussen verzekering en bancaire lijfrente.
+
+![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image21.jpg)
+
+
+Hiernaast is een verschil dat er bij bancaire producten geen risico-elementen omdat het een rekening is, in tegenstelling tot een verzekering. 
+
+*contraverzekering* = een verzekering die een uitkering geeft bij overlijden ter hoogte van de inleg min de gedane uitkeringen. Dit heeft een hogere premie tot gevolg. Is niet aftrekbaar want het betreft een risicokapitaalverzekering. De uitkering is ook onbelast. 
+
+
+* Nabestaande lijfrente.
+    + wordt altijd aan een natuurlijk persoon uitgekeerd, dus geen rechtspersoon.
+    + Nabestaande is een ruim begrip hier.
+        + bloederwanten in de rechte lijn, of in de tweede en derde graad van de zijlijn. Echtgenoot valt niet         in deze groep.
+    + onderscheid in lijfrenteverzekering en bancaire lijfrente. Hieronder in tabelvorm weergegeven.
+    ![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image22.jpg)
+    + de begunstigde moet statistisch gezien binnen de looptijd 1% kans hebben te overlijden. Dit heet de          1%-sterftekans. VOor een jongere persoon is de uitkeringsduur dus langer dan een oudere persoon.
+    + nabestaandelijfrente dient direct in te gaan.
+        + Uitzondering hierop is als de nabestaande `ANW` ontvangt, dan kan de lijfrente ingaan na afloop van          de `ANW`.
+    + omzetting zonder heffing kan alleen:
+        + als de verzekering is afgesloten voor 01-01-2001, of
+        + als de verzekering is afgesloten na 01-01-2001, waarbij de lijfrente ontstaat door het overlijden van         de partner van de verzekeringnemer.
+        
+* Overbruggingslijfrente.
+    + tot 01-01-2006 was het mogelijk om deze af te sluiten in box 1.
+        
+
 
 ---
    
@@ -858,6 +938,128 @@ De deelnemer kan de verantwoordelijkheid van de beleggingen op zichzelf nemen. I
 
 *(pg 149-164)*
 
+Onderstaand schema geeft de maximale hoogte van het pensioen op basis van een middelloonregeling weer.
+
+![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image16.jpg)
+
+De hoogte van het ouderdomspensioen is afhankelijk van vier variabelen: 
+
+1. *pensioengevend salaris*
+    + twee soorten regelingen:
+        1. eindloonregeling
+        2. middelloonregeling
+
+De verschillen tussen de regelingen weergegeven in tabelvorm:
+
+![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image17.jpg)
+
+
+2. *AOW-franchise*
+    + afgeleid van de werkelijke AOW-uitkering op het moment van berekenen.
+    + hoogte kan worden bepaald door de werkgever, maar er is een wettelijk minimum.
+    
+Met het pensioengevend salaris en de AOW-franchise kan de pensioengrondslag worden berekend:
+
+$$PGS - AF = PG$$
+Waarbij $PGS$ = pensioengevend salaris, $AF$ = AOW-franchise en $PG$ = pensioengrondslag.
+
+3. *diensttijd*
+    + rekening houdend met de maximale toetredingsleeftijd en de mogelijke wachtijd van 2 maanden.
+4. *opbouwpercentage*
+    + tot en met 2013:
+        + 35 jaar, 70% van het laatstgenoten pensioengevend salaris. Dus 2% per jaar voor eindloonregeling.
+    + sinds 01-01-2014:
+        + 37 jaar, 70% van het laatstgenoten pgs, dus 1.9%.
+    + sinds 01-01-2015:
+        + 75% van het gemiddeld genoten pensioengevend salaris, over een periode van 40 jaar. Dus 1.875% voor          een middelloon regeling, en 1.657% voor een eindloonregeling.
+
+De hoogte van het ouderdomspensioen wordt dus als volgt berekend:
+
+$$PG * OBP * DJ = OP$$
+Waarbij $PG$ = pensioengrondslag, $OBP$ = opbouwpercentage, $DJ$ = dienstjaren en $OP$ = ouderdomspensioen.
+Het pensioen dat wordt opgebouwd gedurende dienstverband heet ook wel tijdsevenredige pensioen (TEP).  
+
+Pensioenopbouw boven EUR 103.00 is sinds 2015 beperkt.
+
+* Via de werkgever niet mogelijk.
+* Wel mogelijk vrijwillig bij te sparen via nettopensioen/nettolijfrente.
+* Deze komt op een 1.875% van het gemiddelde verdiende loon uit.
+* Valt onder vrijgesteld vermogen in box 3. Uitkering is onbelast.
+* Uitzonderingen bij arbeidsongeschiktheidspensioen.
+    + bestaande rechten blijven doorlopen.
+    + maximering geld niet voor arbeidsongeschiktheidspensioen.
+* Maximering geld wel voor het nabestaandepensioen.
+
+
+Er zijn drie soorten pensioenovereenkomsten:
+
+1. *uitkeringsovereenkomst*
+    + eindloonregeling, dus opbouw over het laatstgenoten salaris. Bij salarisverhoging ook opbouw met             terugwerkende kracht, de zgn. *backservice*. Het tegenovergestelde van *comingservice*, het pensioen wat er over de komende jaren nog gaat worden opgebouwd.
+    + middelloonregeling. Geen backservice, alleen comingservice.
+    + combinatievormen zijn mogelijk, fiscaal wordt dit gezien als twee losse regelingen.
+2. *kaptiaalovereenkomst*
+    + van te voren overeengekomen bedrag.
+3. *premieovereenkomst* 
+    + De hoogte van de premie staat vast.
+    + wordt uitgedrukt in een percentage van het pensioengevend salaris.
+    + verplichting een indicatie te geven van het pensioen.
+    + werknemer is vrij om zelf een pensioenuitvoerder uit te kiezen
+    + niet gesproken over dienstjaren, maar aanwezige waarde.
+    + De tabellen waarin de percentages van de pensioengrondslag zijn weergegeven, de zgn. premiestaffels.
+    + premiestaffels worden door de Belastingdienst regelmatig gepubliceerd, en geven een richtlijn voor de        hoogte van het pensioen.
+        + Kosten als onderdeel van de nettopremie:
+            + garantieopslagen
+            + kosten en premies voor inleggaranties bij beleggingsverzekeringen.
+        + kosten als opslag naast de nettopremie:
+            + administratiekosten betreffende uitkeringswijze, ingang en beëindigingsdatum.
+            + administratieopslagen.
+            + aan- en verkoopkosten van de beleggingen.
+            + beheerkosten.
+            + excasso-opslagen
+            + opslagen voor premievrijstelling bij arbeidsongeschiktheid.
+    + de vier staffels zijn:
+        1. *Staffel 1*. Alleen ouderdomspensioen.
+        2. *Staffel 2*. Ouderdomspensioen + partnerpensioen na pensioendatum. Bij overlijden voor pensioendatum         geen partnerpensioen.
+        3. *Staffel 3*. Ouderdomspensioen + partnerpensioen voor/na pensioendatum. De hoogte van                       partnerpensioen is de waarde ten tijde van overlijden.
+        4. *Staffel 4*. Ouderdomspensioen + partnerpensioen voor/na pensioendatum. De hoogte is de volledige           pensioenwaarde.
+    + voordeel van deze regeling is voor de werkgever dat de kosten goed beheersbaar zijn.
+    + nadeel is mogelijk teleurstellende pensioenuitkomsten bij laat ingezette carrières of hoge inflatie.  
+    
+Nabestaandenpensioen.
+    + partnerpensioen is 70% van het ouderdomspensioen.
+    + wezenpensioen is 20% van het partnerpensioen per kind.
+        + wezen waarbij bijde ouders zijn overleden wordt dit verdubbeld.
+    + bij overlijden voor de pensioendatum gaat de uitvoerder uit van de hoogte dat op de pensioensdatum           opgebouwd zou zijn.
+    + bij overlijden an de pensioendatum ontvangt de partner 70% van wat er al van het pensioen werd ontvangen.
+    + twee manieren hoe het nabestaandenpensioen geregeld zijn:
+        1. *opbouwbasis* = het recht op nabestaandepensioen blijft bestaan na het halen van einddatum van              dienstverband. De nabestaanden ontvangen dan een uitkering over het werkelijk opgebouwde                       ouderdomspensioen.
+        2. *risicobasis* = een overlijdensrisicoverzekering die tot uitkering komt bij overlijden. Hiermee             wordt dan een nabestaandenpensioen aangekocht. Dit recht vervalt na uitdienstreding van de werknemer.  
+        
+Gehuwde en geregistreerde partners zijn automatisch opgenomen, samenwonende moetne expliciet worden aangemeld. 
+
+#### 11.2 Pensioen en echtscheiding
+
+In het geval van scheiding heeft de ex-partner recht op de volgende nabestaandepensioenen:
+
+* opgebouwde pensioen van start werken tot datum inschrijving echscheiding in de register van de burgerlijke     stand.
+    + dit is het bijzonder parnterpensioen, en geld ongeacht het wel of niet in gemeenschap van goedern            getrouwd zijn.
+    + als er verzekerd is op risicobasis, is er geen recht op en bijzonder partnerpensioen.
+    + nieuwe partners hebben dan geen volledige aanspraak meer op het partnerpensioen.
+    + het is mogelijk volledig af te zien van het bijzonder partnerpensioen. Dit moet expliciet worden gemeld      bij ontbinding.
+
+* De wet Verevening Pensioenrechten bij Scheiding `WVPS` is sinds 01-05-1995 van kracht.
+    + de ex-echtgenoot heeft recht op 50% van het tijdens de huwelijkse periode opgebouwde waarde van het          ouderdomspensioen.
+    + dit heeft geen invloed op de factor A. En heeft tot gevolg dat tekorten niet door lijfrente's kunnen         worden opgelost.
+    + de ex-echtgenoot heeft een rechtstreekse vordering op de pensioenuitvoerder.
+    + er is geen onderscheid in huewelijksegoederenregime.
+    + de ex-partner ontvangt elke 5 jaar een UPO.
+    + bij overlijden:
+        + als degene overlijd die het pensioen niet zelf heeft opgebouwd, krijgt de andere het volledige               pensioen.
+        + als degene overlijd die het pensioen heeft opgebouwd, dan krijgt de ander het bijzonder                      partnerpensioen.
+
+* Samenwoners hebben geen recht van bijzonder partnerpensioen, en geen recht op de helft van de opgebouwde waarde. Hier dienen ze zelf afspraken over te maken via het samenlevingscontract.
+    
+
 ---
 
 ## 12 De zelfstandig ondernemer en de oude dag
@@ -958,6 +1160,7 @@ De deelnemer kan de verantwoordelijkheid van de beleggingen op zichzelf nemen. I
 + WMK = Wet Medische Keuring
 + WGBO = Wet op de Geneeskundige Behandelingsovereenkomst
 + Wvb = Wet verplichte beroepsregeling
++ WVPS = Wet Verevening Pensioenrechten bij Scheiding
 + WW = Werkloosheids Wet
         
     
