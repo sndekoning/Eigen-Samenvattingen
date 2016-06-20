@@ -695,14 +695,477 @@ Hiernaast is een verschil dat er bij bancaire producten geen risico-elementen om
         
 * Overbruggingslijfrente.
     + tot 01-01-2006 was het mogelijk om deze af te sluiten in box 1.
-        
+        + een overbruggingslijfrente loopt van een periode voor de AOW-leeftijd tot de einddatum van de           AOW-leeftijd.
+        + bij het overgangsrecht is het van belang over er na 01-01-2006 nog premies zijn betaald. 
+            + *geen premies* -> De volledige waarde kan worden aagewend voor het kopen van een                        overbruggingslijfrente.
+            + *wel premies* -> De waarde op 31-12-2005 kan worden aangewend voor het kopen van een                    overbruggingslijfrente.
+                + De waarde na deze datum kan worden gebruikt voor een tijdelijke oudedagslijfrente.
+        + tijdens de opbouwfase kan het saldo van een overbruggingslijfrente worden doorgestort naar         een bancaire lijfrente. Deze komt tot uitkering op het moment dat de lijfrente expireert.
+    + na 01-01-2006 is het niet meer mogelijk om overbruggingslijfrentes nieuw af te sluiten in box     1. Dit moet nu gebeuren in box 3. 
+        + De waarde telt mee voor de vermogensrendementsheffing.
+        + worden nauwelijks meer afgesloten.
 
+* Lijfrente voor meerderjarig invalide kind
+    + komt toe aan het eigen invalide kind.
+    + gaat in op de leeftijd van meerderjarigheid.
+    + keert levenslang uit.
+    + de hoogte van de premieaftrek is niet beperkt.
+    + grootouders kunnen ook inleggen voor kleinkinderen.
+
+* pre-BHW & BHW
+    + BHW-polissen zijn vergelijkbaar als die van IB-2001.
+        + kunnen worden omgezet naar een bankspaarproduct, maar vallen dan wel onder de regels van          IB-2001.
+        + Op lijfrentes met koopsom voor 01-01-1992 en lijfrentes met premie voor 16-10-1990 zijn           pre-BHW regels van toepassing.
+            + premies betaald na 01-01-2001 worden getoetst aan de nieuwe regelgeving.
+            + vaak nieuwe polis afsluiten en hier aan verbinden.
+    + onderstaand een tabel met kenmerken van de regimes.
+    ![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image23.jpg)
+    
+#### 6.6 De aftrekbaarheid van de inleg
+
+1. *de jaarruimte* = de berekening naar de mogelijkhei om de lijfrente-inleg af te trekken van het fiscale inkomen.
+    + Alleen voor mensen die de AOW-leeftijd nog niet hebben bereikt.
+    + de formule is als volgt: 
+    $$0.138 * (Ig - AF) - 6.5 * A - F$$
+    + waarbij $Ig$ = inkomensgrondslag, $AF$ = AOW-franchise, $A$ = Factor A, en $F$ = dotatie van de fiscale oudedagsreserve in het voorafgaande     kalenderjaar.
+        + de inkomensgrondslag bestaat uit:
+            + winst uit onderneming
+            + belastbaar loon
+            + belastbaar resultaat uit overige werkzaamheden
+            + belastbare periodieke uitkeringen en verstrekkingen.
+        + de AOW-franchise wordt jaarlijks door de overheid vastgesteld.
+            + is nu ongeveer EUR 12.000
+            + **NB.** Dit is een andere dan die van pensioen.
+        + de maximale premiegrondslag is EUR 103.000 - EUR 12.000 = EUR 91.000.
+        + Factor A is de aangroei van van het pensioen in het voorgaande kalenderjaar.
+            + aangegeven in het UPO.
+2. *de reserveringsruimte (inhaalruimte)* = de mogelijkheid gemiste jaarruimte in te halen. 
+    + drie maxima:
+        1. de berekening van de totale jaarruimtes over de afgelopen 7 jaar.
+        2. maximaal 17% van de premietoeslag van het jaar van aftrek.
+        3. een absoluut bedrag van ongeveer maximaal EUR 7200.
+    + belangrijke punten:
+        1. eerder in aftrek gebrachte lijfrentepremies verlagen de reserveringsruimte.
+        2. de franchise betreft deze van het jaar waarin de aftrek wordt aangevraagd.
+3. *terugstorten*.
+    + onterecht overgemaakte inleg dienen binnen 3 maanden teruggestort te worden.
+    + een tijdelijke regeling maakt het mogelijk om onterechte inleg van voor 31-12-2016 terug te laten storten. 
+        + mag niet verder dan 5 jaar terug.
+    + voorwaarden:
+        + verzoek bij belastinginspecteur voor terugstorting
+        + moet voor 31-12-2017 bij inspecteur zijn ontvangen.
+        + zijn er nog mogelijkheden voor aftrek, moeten deze worden benut
+        + het bedrag moet worden opgenomen in de grondslag van box 3.
+
+#### 6.7 Inhoudingsverplichtingen
+
+d.w.z. de lijfrente-uitvoerder dragen loonbelasting af over de uitkeringen.
+
+#### 6.8 Moment van aftrek
+    
+De terugwentelingsmogelijkheid is de mogelijkheid om de premies af te trekken bij een omzetting van een oudedagsreserve en stakingswinst in een lijfrente. Deze premies dienen voor 01-07-2017 te zijn betaald om over belastingjaar 2016 in de aftrek meegenomen te worden.
+Deze mogelijkheid bestaat niet voor de jaar- of reserveringsruimte.
+
+#### 6.9 Saldomethode
+
+Een fiscaal toegestane lijfrente valt in box 1.
+    + tot 1 januari geen verplichting om de premie tot het maximale in mindering te brengen op       het inkomen.
+    + dit verschil wordt een box 3 deel, wat bestaat uit de premie plus de waardeaangroei.  
+    
+Het is aan de verzekeraar verplicht om de opgave te doen van het box 3-deel. Als de polis tot uitkeren komt, is over dit box 3-deel geen inkomsten-belasting verschuldigd. Dit heet de saldo methode. Om tijd en geld te besparen, is sinds 01-01-2010 de beperkte saldomethode ingevoerd.  
+
+* Beperkte saldomethode.
+    + geen splitsing meer.
+    + de termijnen zijn volledig belast in box 1.
+    + de niet-afgetrokken bedragen mogen tot een max van EUR 2.269 per jaaar in mindering brengen     op de lijfrente-uitkeringen.
+
+#### 6.10 Niet-reguliere uitvoering
+
+Een niet-reguliere uitvoering van lijfrente houd in dat de lijfrente niet is gebruikt als inkomensvoorziening. Vanuit de wet IB 2001 volgen hier een aantal sancties op.
+
+* Sancties
+    + *bijtelling van de waarde*. De afkoopwaarde van de lijfrenteverzekering wordt opgeteld bij     het inkomen in box 1.
+    + *revisierente*. Dit is een boete van 20% van de waarde van de verzekering op het moment van     uitvoeren van de niet-reguliere handeling.
+* *De minimumwaarderingsregeling (tot 09-2015)*. Indien de ingelegde premies hoger dan de waarde, moest ingelegde premies worden opgeteld bij het inkomen i.p.v. de waarde van de polis.
+
+* Kleine lijfrentekapitalen < EUR 4.400 kunnen zonder verschuldiging van de revisierente worden afgekocht.
+    + dit bedrag is per lijfrentecontract.
+    + meerdere lijfrentes bij dezelfde verzekeraar worden bij elkaar opgeteld.
+
+* Afkoop bij arbeidsongeschiktheid.
+    + vanaf 01-01-2015 is het mogelijk om nog niet-ingegane box 1 lijfrentes af te kopen zonder            revisierente te betalen.
+        + de persoon moet langdurig arbeidsongeschikt zijn.
+            + niet meer volledig de werkzaamheden kunnen verrichten waarmee hiervoor het inkomen             werd verdiend. 
+            + is hiertoe vermoedelijk in de komende twaalf maanden ook niet meer toe in staat.
+        + mag nog niet op AOW leeftijd zijn
+        + mag niet hoger zijn dan het hoogste van EUR 40.000 of het gemiddelde inkomen van de 2          jaren voorafgaand ana het jaar van afkoop.
+    + dit is ook mogelijk voor box 3 nettolijfrentes, met uitzondering van de inkomenseis. 
+        + deze wordt afgetopt boven de EUR 103.000 met een nettofactor van 0.48.
+
+* Emigratie.
+    + bij emigranten worden zg. conserverende aanslagen opgelegd door de fiscus.
+        + dit ter veiligstelling van belasting over de uitkering die anders misgelopen zouden              worden.
+        + binnen europa mogen geen zekerheden worden aangevraagd.
+        + de hoogte van deze aanslag is hetzelfde als van een niet-reguliere uitvoering.
+
+* Omzetting.
+    + omzetting tussen de verschillende vormen is in alle fases fiscaal mogelijk.
+        + rekening dient gehouden te worden met de specifieke regimes.
+        
+#### 6.11 Transitievergoeding
+
+Bij ontslag kan een transitievergoeding uitgekeerd worden.
+    + kan bestaan uit:
+        + gemiste inkomsten
+        + pensioenschade
+        + immateriële schade.
+    + werknemer komt in aanmerking na ten minste twee jaar dienstverband.
+    + vervalt indien ernstig verwijtbaar handelen of nalaten.
+    + vrij besteedbaar.
+        + kosten voor outplacement en scholing mogen in mindering worden gebracht in overleg met           werknemer.
+        + restand moet belasting worden betaald.
+            + box 1 bij uitkering.
+            + box 3 bij op bankrekening zetten.
+
+ 
+De opbouw is als volgt:
+    + $1/3$ van het maandsalaris per dienstjaar in de eerste 10 jaar.
+    + $1/2$ van het maandsalaris per dienstjaar daarna.
+    + $1$ maandsalaris per dienstjaar, indien:
+        + leeftijd 50 =< jaar, en
+        + 10 =< jaar in dienst, en
+        + het bedrijf heeft 25 =< werknemers.
+    + is maximaal EUR 75.000.  
+    
+Overgangsregime tot 01-01-2020:
+
+* werkgevers hoeven alleen de dienstjaren na 1 mei 2013 te betalen indien:
+    + slechte financiële positie en,
+    + minder dan 25 werknermers in dienst.  
+
+Ontslagvergoeding en stamrecht.
+
+* tot 2014 was het mogelijk een ontslagvergoeding met zg. stamrecht aan te kopen.
+    + de hoogte werd bepaald door kantonrechtersformule.
+    + in de regel hoger dan de transitievergoeding. 
+    + is een lijfrenteverzekering want:
+        + periodieke uitkering bij het in leven zijn van een persoon.
+    + diverse mogelijkheden van uitkering:
+        + direct uit laten keren.
+        + stamrechtlijfrente aankopen bij een bank of verzekeraar.
+        + een stamrecht Besloten Vennootschap, `BV`, opzettten.
+            + de laatste twee kunnen als:
+            + tijdelijke lijfrente tot aan AOW of werk uitkeren.
+                + uitkeringsduur afhankelijk van 1%-sterftekans.
+                + bij werk, uitkering doorschuiven naar pensioen.
+            + direct ingaande levenslange lijfrente.
+            + (tijdelijke) oudedagslijfrente die uiterlijk in gaat op AOW.
+        + bij een stamrecht BV:
+            + meer flexibiliteit; kan naar eigen inzicht worden belegd, eigen bedrijf mee                      opstarten.
+            + kosten voor oprichten BV en inschrijven KVK, worden in mindering gebracht op het                 kapitaal.
+            + jaarlijks een jaarverslag moeten opstellen.
+    + mogelijkheid stamrecht af te kopen.
+        + tot 2014 80% van de waarde opgeteld bij het inkomen.
+        + daarna volledige waarde.
+        + in box 1, geen revisierente.
+
+#### 6.12 Echtscheiding en lijfrenten
+
+Het het verdelen van de gemeenschap bij scheiding is het mogelijk dat er een lijfrentevoorziening behoort. Als er overbedeling, d.w.z. één partner ontvangt meer dan de ander, is dan kan er sprake zijn van schenkbelasting.  
+
+Als een van de partners de box 1-lijfrentes ontvangt, wordt er op het te compenseren bedrag een z.g.n. latente belastingclaim ingehouden. Dit is om uit te balanceren dat er over de lijfrente nog belasting gaat worden betaald. Bij aanspraken van lijfrenten voor 01-01-2001 vind er verdeling zonder belasting plaats.  
+
+In het huidige regime kan lijfrentes belastingvrij worden verdeeld als:  
+
+* de lijfrente wordt overgedragen.
+* de ex-echtgenoot wordt onherroepelijke begunstigde.
+* deze wordt omgezet in een lijfrente die kwalificeert voor lijfrentepremieaftrek ten behoeve van de ex-echtgenoot.  
+
+Box 3-lijfrentes en goudenhanddrukstamrechten kunnen ook zonder fiscale gevolgen worden verdeeld.
+
+De ex-echtgenoot wordt belastingsplichtige over de lijfrente.   
+
+#### 6.13 Wet VPL
+
+*Wet aanpassing fiscale behandeling VUT, prepensioen en introductie levensloop* = `VPL`, geïntroduceerd op 01-01-2005.  
+
++ levensloopregeling.
+    + tussen 01-01-2006 en 01-01-2012 was het mogelijk voor werknemers en `DGA`'s deel te nemen.
+    + 12% per jaar met een maximum van 215% van bruto inkomen sparen.
+    + extra heffingskorting van EUR 210 per jaar. 
+    + beperkte opnamemogelijkheden.
+        + opgeheven per 01-01-2013.
+    + overgangsregeling per 01-01-2012.
+        + bij EUR 3.000 <=.
+            + *blijven doorsparen*.
+                + biedt de mogelijkheid to een max van 210% van het bruto-jaarloon drie jaar eerder                 te stoppen met een betaling van 70% van het bruto jaarsalaris.
+                + Veelgestelde vragen gaan over:
+                    + tussentijds omzetten van een levenslooptegoed naar pensioenregeling.
+                        + Dit kan op elk moment tot uiterlijk                                                              31-12-2021/AOW-leeftijd/pensioendatum.
+                        + Heeft gevolgen voor in mindering gebrachte lijfrentepremies.
+                        + mag niet meer bedragen dan 100% van laatstverdiende loon.
+                    + het nog aanwezige levenslooptegoed op pensioendatum.
+                        + het bedrag kan ineens worden opgenomen of toegevoegd worden aan het                              pensioen.
+                        + fiscaal mag niet hoger zijn dan 100% van laatstverdiende loon.
+                    + opbouw van het pensioen tijdens een verlofperiode.
+                        + is afhankelijk van de pensioenregeling.
+                    + invloed van deelname op het pensioengevend salaris bij de pensioenopbouw via                     werkgever.
+                        + Wettelijk toegestaan, afhankelijk van pensioenregeling.
+                    + invloed van deelname aan de levensloopregeling op de jaarruimte voor de                          lijfrenteaftrek.
+                        + is van belang. Het inkomen na de inleg wordt meegenomen.
+            + *opnemen van het tegoed in 2013*. Dit wordt dan als loon belast.
+                + het saldo dat aanwezig was voor 31-12-2011: 80% belast.
+                + de rest: 100% belast.
+            + *opnemen van het tegoed in 2014 of 2016 en later*
+                + volledig belast.
+            + *opnemen van het tegoed in 2015*. Als loon belast
+                + het aanwezige saldo op 31-12-2013: 80% belast.
+                + de rest: 100% belast.
+        + minder dan EUR 3.000 op 31-12-2011.
+            + *begin 2013 vrijgevallen*
+                + het aanwezige saldo op 31-12-2011: 80% belast.
+                + de rest: 100% belast. 
+        + geen revisierente verschuldigd. 
 
 ---
    
 ## 7 Wet Inkomstenbelasting 2001
 
 *(pg 81-98)*
+
+Het huidige belastingregime IB 2001 werd in het jaar 2001 geïntroduceerd, met de volgende doelstellingen:
+
+* verbreding en versterking van de belastinggrondslag.
+* bevordering van de werkgelegenheid en de economische structuur, versterking concurrentiekracht     van Nederland.
+* verlaging van de lastendruk op arbeid.
+* bevordering van een duurzame economische ontwikkeling ('vergroening').
+* een evenwichtige en rechtvaardige belastingdruk.
+* bevordering van emancipatie en economische zelfstandigheid.
+* vereenvoudiging van het belastingstelsel.   
+
+#### 7.1 Boxenstelsel
+
+Geen sprake van één totaalinkomen maar drie afzonderlijk belastte inkomens.
+
+1. *box 1*. Belastbaar inkomen uit werk en woning. (oplopend naar 50%)
+2. *box 2*. Belastbaarinkomen uit aanmerkelijk belang. (vast tarief van 25%)
+3. *box 3*. Belastbaar inkomen uit sparen en beleggen. (vast tarief van 30%)
+
+**NB.** inkomsten mogen maar in één box belast worden ter voorkomen van dubbele belastingheffing.  
+
+Een negatief inkomen in een box kan niet worden verrekend met een positief inkomen uit een andere box. Binnen box 1 en 2 is het wel mogelijk een verrekening te doen met een positief inkomen uit volgend of vorige jaren. 
+
+#### 7.2 Overzicht heffingsgrondslag en verschuldigde inkomstenbelasting. 
+
+Schematisch overzich over de totale heffingsgrondslag:  
+
+ ![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image24.jpg)
+ 
+#### 7.3 Individuele belastingheffing
+
+* Elke belastingsplichtige wordt individueel belast.
+* Samenwoners worden apart belast. 
+* Uitzonderingen door fiscaal partnerschap.
+
+#### 7.4 Fiscaal partnerschap
+
+Fiscaal partnerschap = bepaalde inkomsten en aftrekposten mogen zelf bepaald worden wie wat betaald in de belastingaangifte. Inkomsten en aftrekposten die partners kunnen verdelen:
+
+* belastbare inkomsten uit eigen woning
+    + zolang het totaal van 100% wordt behaald is de verdeling geheel vrij.
+* inkomen uit aanmerkelijk belang voor vermindering met de persoonsgebonden aftrek.
+* persoonsgebonden aftrek
+* de gezamelijke grondslag voor fictieve inkomsten uit bezittingen en schulden van box 3.   
+
+Gehuwden en geregistreerde partners zijn automatisch fiscale partners. tot 01-01-2011 konden ongehuwde samenwoners kiezen voor fiscaal partnerschap, sindien onder bepaalde voorwaarden, namelijk alle hoofdvereisten en ten minste 1 van de zes subvereisten.
+
+* *Hoofdvereisten*: 
+    + ingeschreven op hetzelfde woonadres in de Basisregistratie personen (BRP).
+    + Beiden zijn meerderjarig.
+    + Gezamenlijke huishouding, geen zakelijke huurovereenkomst.
+* *Subvereisten*: 
+    + notariaal samenlevingscontract.
+    + (erkend) kind.
+    + aangemeld als partner van de belastingplichtige op de pensioenregeling.
+    + samen een woning bezitten welke kwalificeert als eigen woning onder IB 2001
+    + op het woonadres een minderjarig kind van ten minste een van beiden staat ingeschreven.
+    + in het kalenderjaar voorafgaand aan het huidig kalenderjaar reeds fiscaal partner.  
+    
+#### 7.5 Box 1: Werk en woning
+
+In box 1 zit het belastbare inkomen uit werk en woning, dit bestaat uit:
+
+* belastbare winst uit onderneming.
+    + *ondernemer* = iemand die een onderneming zonder rechtspersoonlijkheid drijft. 
+    + winst uit onderneming wordt berekend als:  
+    $$O - K = N - OA = FW$$
+    waarbij $O$ = Omzet, $K$ = Kosten, $N$ = Nettowinst, $OA$ = ondernemingsaftrek en $FW$ =           fiscale winst. 
+    + winst van een rechtspersoon, zoals een BV of NV, valt niet onder de heffing van                  inkomstenbelasting.
+    + Ondernemersaftrek is mogelijk voor:
+        + ondernemers die
+        + 18 jaar of ouder zijn en jonger dan AOW-leeftijd en
+        + voldoen aan het urencriterium (50% van de werktijd gaat in de onderneming en minimaal            1225 uur per jaar).
+    + de zelfstandigenaftrek is een bedrag van EUR 7.300 dat in mindering mag worden gebracht op de     winst voordat er belasting over wordt berekend. 
+    + de MKB-winstvrijstelling bedraagt 14% van de winst na toepassing van de ondernemersaftrek.
+* belastbaar loon 
+    + salaris, pensioeninkomen, sociale uitkeringen, bijtelling van leaseauto.
+    + de heffing wordt ingehouden door de werkgever of uitkerende instantie.
+    + bij leaseauto dient een pct. van de marktwaarde van de auto bij de inkomsten te berekenen.
+        + bij bewijsbaar minder dan 500km privé geen bijtelling.
+        + hoogte afhankelijk van de milieuvriendelijkheid.
+        + bij auto's 15 jaar =< is de bijtelling over de waarde vna de auto in het economische             verkeer.
+        + werkgevers kunnen een eigen bijdrage vragen voor gebruik van lease auto, dit mag in              mindering worden gebracht in de fiscale bijtelling.
+* belastbaar resultaat uit overige werkzaamheden.
+    + voorbeelden van overige werkzaamheden zijn:
+        + freelancer
+        + gastouder
+        + artikelen en boeken schrijven
+        + cursussen geven
+        + verhuren van een bedrijfspand aan de eigen BV
+* belastbare periodieke uitkeringen en verstrekkingen (lijfrenten, alimentatie, etc)
+    + de vier hoofdgroepen:
+        1. specifieke uitkeringen en verstrekkingen.
+        2. lijfrenten en andere periodieke uitkeringen uit een inkomensvoorziening.
+        3. uitkeringen en verstrekkingen op grond van een buitenlandse inkomensvoorziening.
+        4. uitkeringen op grond van verplichtgestelde deelneming aan een beroeps- of                       bedrijfstakpensioenregeling. 
+    + uitzonderingen zijn bijvoorbeeld zorgtoeslag en kinderbijslag. 
+* belastbare inkomsten uit de eigen woning die hoofdverblijf is (eigenwoningforfait en de voordelen uit de kapitaalverzekering/de spaarrekening/het beleggingsrecht eigen woning verminderd met de aftrekbare kosten).
+    + De lening die is aangegaan voor aankoop verbetering of onderhoud van de eigen woning             (hypothecair krediet) heet de eigenwoningschuld. 
+    + de aftrekposten die hier uit vloeit heet de negatieve inkomsten uit de eigen woning.
+        + de inkomsten worden berekend door:
+            $$ F - R = I$$
+            waarbij $F$ = eigenwoningforfait, $R$ = rente betaald over de eigenwoningschuld en $I$             = de inkomsten uit eigen woning.
+        + het eigenwoningforfait is een pct. van de WOZ-Waarde (Wet waardering onroerende zaken,           `WOZ`) van het voorgaande jaar. Dit is meestal 0.75% en het is naar rato van duur.
+        + de rente van de eigenwoningschuld mag in mindering wordne gebracht op het                        eigenwoningforfait. 
+        + vanaf 01-01-2013 mag alleen de rente op de EWS afgetrokken worden indien de lening wordt         afgelost, dus of annuïtair, of lineair.
+        + op EWS voor 31-12-2012 zijn de oude regels van kracht.
+        + sinds 2014 wordt het tarief voor de aftrekbare kosten jaarlijks met 0.5% verlaagd tot            38%. Dit start in de 4e schijf. Dit geld niet voor het forfait wat volledig belast wordt. 
+* negatieve uitgaven voor inkomensvoorzieningen (bijvoorbeeld terugave van lijfrentepremies)
+* negatieve persoonsgebonden aftrek
+
+dit wordt verminderd met:
+
+* aftrek wegens geen of weinig eigenwoningschuld.
+* uitaven voor inkomensvoorzieningen (lijfrentepremie)
+* persoonsgebonden aftrek (schoolingsuitgaven, uitgaven voor specifieke zorgkosten, uitgaven voor monumentenpanden en aftrekbare giften)  
+
+Schematisch hieronder het schijvensysteem.
+
+ ![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image25.jpg)
+ 
+#### 7.6 Box 2: Aanmerkelijk belang
+
+Iemand heeft een aanmerkelijk belang als die tenminste 5% van de aandelen in een BV of NV bezit. De inkomsten hieruit worden dan belast. Denk aan dividend of winst uit verkoop van de aandelen. Er is een vlaktax tarief van 25% in box 2.  
+
+Regelingen van toepassing op box 2:
+
+* *meesleepregeling* = overige aandelen, opties, en winstbewzijen van `DGA`behoren ook tot aanmerkelijk belang.
+* *meetrekregeling* = de aandelen van de belastingsplichtige zijn ook aanmerkelijk belang als echtgenoot, partner of bloed- of aanverwanten in de rechte lijn een aanmerkelijk belang heeft.
+* *terbeschikkingstellingsregeling* = als de `DGA` vermogen beschikking stelt aan de BV. Dit vermogensbestanddeel komt dan voor `DGA` in box 1 terecht.
+
+#### 7.7 BOX 3: Sparen en beleggen
+
+In deze box worden de inkomsten uit sparen en beleggen belast. Hier betaald men een vlaktax van 30%.
+
+1. Stap 1: *Rendementsgrondslag*
+    + dit is het totale vermogen dat belast gaat worden. 
+    + dit is de waarde van de bezittingen minus de waarde van de schulden.
+    + het gaat dan om 01-01 van het belastingjaar. 
+        + veel voorkomende bezittingen:
+            + WOZ-waarde tweede woning, vakantiewoning, beleggingspand.
+            + saldo op spaar- en beleggingsrekening.
+            + waarde van verzekeringen.
+            + contant geld boven ongeveer EUR 550 per partner.
+        + bij minderjarige kinderen dient de helft van diens vermogen ook bij het eigen vermogen           opgeteld te worden.
+        + ook het saldo van buitenlandse spaarrekeningen moet worden opgegeven. Zwartspaarders zijn         mensen die dit niet doen.
+            + de inkeerregeling is voor zwartspaarders. Bij het zelf melden is er een andere boete             afhankelijk van het moment van inkeer.
+                + vergrijpboete tot 01-07-2014 nihil.
+                + vergrijpboete tot 01-07-2015 30%.
+                + vergrijpboete vanaf 01-07-2015 60%.
+            + als de fiscus de zwartspaarder zelf opspoort kan deze geen gebruik maken van de                  inkeerregeling.
+            + de boete kan oplopen tot 300% van het nagevorderde bedrag. 
+            + de hoogte van het nagevorderde bedrag is wat de fiscus heeft gemist in de afgelopen              jaren met daarover een heffingsrente.  
+                + De navorderingstermijn voor vermogen in Nederland is 5 jaar, in het buitenland is                 dat 12 jaar.
+    + alle schulden die niet in box 1 of 2 vallen, vallen in box 3. Belastingschulden vallen buiten     de rendementsgrondslag, m.u.v. erfbelastingschulden.
+        + de eerste EUR 3.500 telt niet mee bij het in mindering brengen van de schulden. 
+            + dit is dubbel voor partners.
+            + dit heet de doelmatigheids- of schuldendrempel.
+2. Stap 2: *Rendementsgrondslag minus heffingsvrij vermogen*
+    $$ GR - HV = GSB $$
+    waarbij $GR$ = rendementsgrondslag, $HV$ = heffingsvrij vermogen en $GSB$ = grondslag sparen en     beleggen.
+    + het heffingsvrij vermogen is het vermogen dat in mindering op het belastbaar vermogen mag        worden gebracht.
+        + dit is per persoon EUR 21.000
+        + dit kan nooit negatief zijn.
+    + andere vrijstellingen zijn:
+        + groene belegging van EUR 58.000 per persoon.
+        + begrafenisverzekering/=rekening van EUR 7.000 per persoon.
+        + nettolijfrente en/of = pensioen: onbeperkt.
+    + vrijstellingen mogen voor fiscaal partners worden verdubbeld. 
+3. Stap 3: *Fictief rendement*
+    $$ GSB * FR = BI $$
+    waarbij $GSB$ = grondslag sparen en beleggen, $FR$ = fictief rendement en $BI$ = belastbaar        inkomen.
+    + fictief rendement of forfaitaire rendement is sinds IB 2001 4%. 
+4. Stap 4: *hoogte van de belasting*
+    $$ BI * 0.3 = B $$
+    waarbij $BI$ = belastbaar inkomen en $B$ = te betalen belasting in box 3.
+    
+Per 01-01-2017 gaat het forfaitfaire rendement gewijzigd worden. De nieuwe structuur is als volgt:
+
+ ![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image26.jpg)
+ 
+Deze gaan sindsdien jaarlijks opnieuw berekend worden. 
+
+#### 7.8 Persoonsgebonden aftrek
+
+Een verzameling van aftrekposten die in mindering worden gebracht in box 1. Als het totaal groter is dan het inkomen in box 1, mag dit ook in box 3 danwel box 2 worden afgetrokken. Het kan nooit tot een negatief inkomen lijden. Een gedeelte van deze aftrek mag ook naar een volgend jaar worden genomen.  
+
+Hieronder vallen:
+
+* alimentatieverplichtingen voor de ex-partner
+* uitgaven voor specifieke zorgkosten.
+* weekenduitgaven voor gehandicapten
+* scholingsuitgaven.
+* uitgaven voor monumentenpanden
+* aftrekbare giften
+
+#### 7.9 Heffingskorting
+
+Heffingskortingen zijn kortingen op de te betalen inkomstenbelasting dus, per euro korting een euro minder belastingbetaling.  
+
+Veel voorkomende kortingen zijn: 
+
+* Algemene heffingskorting.
+    + is afhankelijk van het inkomen uit box 1.
+    + schematisch weergegeven:
+     ![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image27.jpg)
+    + aanrechtsubsidie of huisvrouwenkorting is de algemene heffingskorting voor mensen met een        partner die voldoende belasting betaald.
+* Arbeidskortingen.
+    + geldt voor inkomsten uit arbeid
+    + is inkomensafhankelijk.
+    + splitsing tussen voor en na AOW.
+* Groene beleggingen.
+    + 0.7% van het ingelegde bedrag tot maximaal EUR 58.000
+* Overige kortingen.
+    + inkomensafhankelijke combinatiekorting
+    + werkbonus
+    + ouderenkorting
+    + alleenstaande ouderenkorting
+* Kindregelingen
+    + sinds 01-01-2015 het aantal regelingen beperkt.
+    + het kindgebonden budget verhoogd.
+    
+#### 7.10 Voorlopige teruggave.
+
+Indien te veel loonbelasting via werkgever betaald, dan kan er een voorlopige teruggaaf worden aangevraagd.
+
+* Periodiek gedurende het lopende jaar terugkrijgen.
+* Bijzonder kleine bedragen niet mogelijk.
+* Het meest voorkomende bestandsdeel zijn de negatieve inkomsten uit eigen woning.
+
+#### 7.11 Netto inkomen en Netto besteedbaar inkomen.
+
+Het netto inkomen is het bruto inkomen minus de te betalen belasting. Het netto besteedbaar inkomen is het inkomen na vaste lasten  en andere netto ontvangsten zoals toeslagen.
+
 
 ---
 
@@ -1149,6 +1612,7 @@ In het geval van scheiding heeft de ex-partner recht op de volgende nabestaandep
 + Anw = Algemene Nabestaande Wet 
 + AOW = Algemene Ouderdoms Wet
 + BEW = Beleggersrecht Eigen Woning
++ BV = Besloten Vennootschap
 + DGA = Directeur Groot-Aandeelhouder
 + KEW = Kapitaalverzekering Eigen Woning
 + ORV = Overlijdensrisicoverzekering
@@ -1160,6 +1624,8 @@ In het geval van scheiding heeft de ex-partner recht op de volgende nabestaandep
 + WMK = Wet Medische Keuring
 + WGBO = Wet op de Geneeskundige Behandelingsovereenkomst
 + Wvb = Wet verplichte beroepsregeling
++ Wet VPL = Wet aanpassing fiscale behandeling VUT, prepensioen en introductie levensloop
++ WOZ = Wet waardering onroerende zaken
 + WVPS = Wet Verevening Pensioenrechten bij Scheiding
 + WW = Werkloosheids Wet
         
