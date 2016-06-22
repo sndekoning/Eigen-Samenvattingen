@@ -1529,11 +1529,243 @@ In het geval van scheiding heeft de ex-partner recht op de volgende nabestaandep
 
 *(pg 165-173)*
 
+#### 12.1 Fiscaal ondernemerschap
+
+* De ondernemer:
+    + is degene die het ondernemingsrisico loopt.
+    + heeft meerdere opdrachgevers.
+    + voldoet aan de grotendeelseis, d.w.z. meer dan 50% van diens werkbare tijd aan het drijven van de         eigen onderneming.
+    + voldoet aan het urencriterium, d.w.z. verricht voor minimaal 1225 uur werkzaamheden voor het bedrijf.     In het geval van meerdere bedrijven, mag dit verdeeld worden.
+    + heeft een winstoogmerk.
+
+* de onderneming (in fiscale zin:
+    + een duurzame organisatie.
+    + gericht op winst.
+    + door middel van kapitaal en arbeid.
+    
+#### 12.2 Keuze van de rechtsvorm:
+
+* geen rechtspersoonlijkheid bezittende rechtsvormen (= ondernemer volgens IB 2001)
+    + eenmanzaak
+    + maatschap
+    + vennoot onder firma
+    + commanditaire vennootschap
+* wel rechtspersoonlijkheid bezittende rechtsvormen (= geen ondernemer volgens IB 2001)
+    + besloten vennootschap (BV)
+        + eigenaar is `DGA`, kan van andere aftrekposten gebruikmaken dan de ondernemer.
+    + naamloze vennootschap (NV)
+    + stichting of vereniging
+    + de coöperatie.  
+    
+Een overzicht van de kenmerken vna de meest voorkomende ondernemingsvormen:
+
+![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image28.jpg)
+
+#### 12.3 De Oudedagsreserve
+
+Is een alternatief voor vrijwillige pensioensverzekering en een aanvulling voor verplichte bedrijfs- of beroepspensioenregelingen. Dit heet de oudedagsreserve. Deze kan opgebouwd worden door een IB-ondernemer die:  
+
+* aan het begin van het kalenderjaar nog geen AOW-leeftijd heeft.
+* voldoet aan het urencriterium
+* de stand van de oudedagsreserve is lager dan het ondernemingsverogen op de balans.
+
+De berekening van de dotatie op de OR is als volgt:
+
+1. Stap 1 = *berekenen van de winst*
+    + is de nettowinst van de ondernemer voor aftrek van de ondernemersaftrek, MKB-winstvrijstelling en         verplichte deelname pensioenregeling.
+2. Stap 2 = *berekenen van het maximale dotatiepercentage*
+    + dit jaar mag er maximaal 9.8% van de winst worden gedoteerd aan de OR
+3. Stap 3 = *rekening houden met het vaste plafond*
+    + dit jaar staat dit op max EUR 8.500
+4. Stap 4 = *maximering op het verschil tussen ondernemingsvermogen en stand OR*
+    + de dotatie is gemaximeerd op het bedrag waarmee het ondernemingsvermogen bij het einde van het            kalenderjaar de OR bij het begin van het kalenderjaar te boven gaat.
+5. Stap 5 = *berekening van de dotatie*
+    + indien er wordt gekozen voor dotatie, moet het maximale bedrag gedoteerd worden.
+    + de opbouw is per ondernemer.
+        + indien de ondernemer meerdere ondernemingen heeft, dan moet de winst van alle ondernemingen bij           elkaar worden opgeteld.
+        + als een onderneming meerdere ondernemers heeft, dan moet de winst eerst onderling verdeeld te             worden.  
+
+De OR neemt in de volgende gevallen verplicht af: 
+
+* afneming van de OR met een bedrag naar keuze van de belastingplichtige.
+* afneming met het bedrag waarmee de reserve het vermoge aan het einde van het kalenderjaar overtreft:
+    + indien in het kalenderjaar de onderneming is gestaakt.
+    + de belastingplichtige heeft de AOW-leeftijd bereitk.
+    + de belastingplichtige heeft in het kalenderjaar, en het voorgaande jaar niet aan het urencriterium        voldaan.
+* het afgenomen bedrag gestort wordt in een lijfrente is er geen belasting in Box 1 verschuldigd.
+* in het geval van verlies hoeft de ondernemer de reserve niet op te heffen als het vermogen beneden de     reserve daalt. Er mogen echter dan geen dotaties meer worden gedaan.  
+
+Wanneer de OR expireert:
+
+* er kan een oudedagslijfrente bij een professionele verzekeraar worden bedingd.
+    + dit kan ook in verschillene lijfrenten.
+* bij het overlijden van de ondernemer wordt de OR tegen het progressieve tarief in de winst opgenomen.
+    + als de partner de onderneming rechtstreeks voortzet, kan schriftelijk worden verzocht dat de OR niet     wordt opgeheven.
+    + als één of meerdere erfgenamen een onmiddelijk ingaande lijfrente bedingen, kan ook heffing worden        voorkomen. Het gaat dan om een nabestaandenlijfrente.
+    
+#### 12.4 De Stakingslijfrente.
+
+In het geval van het stoppen met drijven van de onderneming, moet de ex-ondernemer over de zogenoemde stakingswinst inkomstenbelasting betalen.
+
+In de volgende gevallen is er sprake van staking van een onderneming: 
+
+* de ondernemer verkoopt de onderneming; ook als de onderneming wordt omgezet in een BV.
+* bij liquidatie van de onderneming
+* bij overlijden van de ondernemer, en de partner of erfgename zetten de onderneming niet voort.
+
+De stakingswinst wordt belast in box 1 en bestaat uit de volgende componenten:
+
+* Goodwill = de meerwaarde van een onderneming door een trouwe klantenkring.
+* stille reserves = het meerdere boven de boekwaarden van de activa en passiva.
+* fiscale reserves = egalisatiereserve, herinvesteringsreserve en de oudedagsreserve.
+
+Binnen de maxima is het mogelijk om stakingswinst belastingvrij om te zetten in de stakingslijfrente. De premie van deze lijfrente is aftrekbaar, waarbij de hoogte afhankelijk is van de leeftijd en situatie van de ondernemer. Deze is maximaal EUR 450.000 en kan in de volgende gevallen van worden gebruik gemaakt:
+
+* de ondernemer is niet ouder dan 5 jaar over de AOW-leeftijd.
+* op het moment van staken is de ondernemer voor 45% of meer arbeidsongeschikt en de termijnen gaan binnen 6 maanden in.
+* de onderneming wordt gestaakt door overlijden van de ondernemer.
+
+In de volgende gevallen kan een aftrek van maximaal EUR 225.000 gebruik worden gemaakt:
+
+* de ondernemer is op het moment van staken niet ouder dan 15 jaar over de AOW-leeftijd.
+* de lijfrente termijnen gaan direct in.
+
+In alle overige gevallen is de aftrek maximaal EUR 115.000. Al deze vrijstellingen zijn life time-vrijstellingen.
+
+Op bovengenoemde maxima komen de volgende voorzieningen in mindering: 
+
+* de waarde van de aanspraken die berusten op de pensioenregeling die de ondernemer heeft opgebouwd tijdens zijn ondernemerschap.
+* het bedrag van de OR bij het begin van het kalenderjaar.
+* de eerder afgetrokken lijfrentepremies op basis van jaar- en reserveringsruimte.
+* eerder in aftrek gebrachte premies in verband met staking.
+
+
+Bij het overtreden van de fiscale voorwaarden zijn dezelfde sancties van toepassing als op normale lijfrentes.
+
 --- 
 
 ## 13 De DGA en de oude dag
 
 *(pg 175-184)*
+
+De `DGA` heeft andere mogelijkheden voor het opbouwen van pensioen, namelijk pensioen in eigen beheer opbouwen.
+
+#### 13.1 Wie is de DGA?
+
+De DGA is een werknemer die meer dan 10% van de aandelen in de BV bezit, en staat ingeschreven als eigenaar in het aandeelhoudersregister. De onderbrengingsplicht, namelijk dat de werkgever verplicht is een pensioen bij een professioneel fonds onder te brengen, geld niet voor een DGA
+
+#### 13.2 Pensioen in eigen beheer versus verzekeren.
+
+De DGA heeft de keuze:
+
+* Pensioen verzekeren.
+* Pensioen opbouwen in eigen beheer.
+
+#### 13.3 Liquiditeit
+
+Het pensioengeld word niet weggebracht naar een verzekering, maar binnen de eigen onderneming gehouden. Dit bedrag wordt dan op de balans geplaatst. Dit staat dan onder de zgn. eigenbeheerreserve of pensioenverplichting. Het jaarlijkse bedrag dat hier aan wordt toegevoegd is de pensioendotatie. Deze dotatie kan in mindering worden gebracht op de winst, waardoor vennootschapsbelastig kan worden bespaart.  
+Hoewel dit geld is gereserveerd voor het pensioen, is de DGA niet verplicht het hiervoor te behouden. Door het geld in eigen beheer te houden, ontstaat er liquiditeitsverruiming. Nadeel hiervan is dat dit geld er dan niet meer is op het moment dat de DGA met pensioen gaat, anders gelden er fiscale consequenties en geen geld om pensioen mee aan te kopen.
+
+#### 13.4 Het afdekken van risico's
+
+1. Overlijdensrisico:
+    + In het geval van verzekerd pensioen, kan er met de verzekeraar afspraken worden gemaakt over het verzekerde partnerpensioen, ook als er geen echte partner is.
+    + In het geval van eigen beheer, dient er daadwerkelijk een nabestaande te zijn.
+    + Bij overlijden kunnen er twee situaties zijn:
+        1. er is onvoldoende pensioen opgebouwd, en kan dus niet uitkeren aan de nabestaanden.
+        2. er is voldoende pensioen opgebeuwd op de balans, maar het geld is niet daadwerkelijk in de               onderneming aanwezig.
+    + in het geval van een van deze situaties, dient er toch uitgekeerd te worden, wat het risico van           financiële problemen of faillisement voor het bedrijf met zich meebrengt.
+        + ter voorkoming hiervan kan de DGA het pensioen opbouwen in eigen beheer, maar het partnerpensioen         apart te verzekeren.
+2. Langlevenrisico:
+    + als het ouderdomspensioen is verzekert, kan met ingang van het pensioen een levenslange                   pensioenuitkering worden aangekocht.
+        + de uitkering is gebaseerd op sterftekans en interest.
+    + als de DGA gekozen heeft voor eigen beheer, dient hij zelf zijn pensioenafspraken na te komen.
+        + Dit kan problematisch zijn als door riskante beleggingen het doelvermogen niet is gehaald, of als         de DGA uitzonderlijk lang leeft.
+3. Arbeidsongeschiktheidsrisico: 
+    + zelfde mogelijkheden als bij een partnerpensioen.
+    + van belang is na te gaan of de DGA in aanmerking komt voor een evt. WIA uitkering.
+4. Faillissement;
+    + Omdat de pensioendotaties niet daadwerkelijk hoeven te worden gereserveerd, is de eigenbeheerreserve      niet meer dan een boekhoudkundige grootheid.
+        + de dekking is vaak door onroerend goed, voorraden of ander activa.
+        + bij faillissement vervallen deze dekkingen door verkoop van de activa.
+    + bij een verzekerd pensieon valt het kapitaal boven de failliete boedel.
+        + dit is uitsluitend in het geval van een aanspraakpolis.
+        + bij een dekkingspolis is het kapitaal gedekt, maar gebonden aan de BV, en valt dus wel in de              failliete boedel.
+    + Hoewel de DGA bij faillissement werkloos raakt, is het afhankelijk of hij volgends de                     werknemersverzekering ook DGA was of hij in aanmerking komt voor een WW-uitkering.
+    + een manier om het risico te verkleinen is door het pensieon in eigen beheer onder te brengen in een       aparte pensioen-bv. Hierdoor vervalt wel het liquiditeitsvoordeel.
+5. Verkoopbaarheid van de aandelen:
+    + in het geval dat de DGA zijn aandelen wil verkopen wordt de waarde gedrukt door de pensioenreserve        eigen beheer.
+        + de koper van de aandelen dient hierbij rekening mee te houden bij het bepalen van zijn bod op de          aandelen.
+6. Scheiding: 
+    + Bij scheiding kan de ex-partner een deel van het ouderdomspensioen en bijzonder partnerpensioen           opeisen.
+        + Dit geld kan worden afgestort bij een verzekeraar. Ook wel bekend als de afstortingsverplichting          bij scheiding.
+        + Dit mag alleen geweigerd worden indien het voortbestaan van het vennootschap erdoor in gevaar             komt.
+        + Tekorten mogen door de ex ook worden opgeëist op de privégelden van de DGA.
+        + bij verzekerd pensioen kan de ex ok aanspraak maken op de pensioenrechten.
+        + dezelfde regels gelden over fiscaal partnerschap.
+7. Dividend: 
+    + bij dividenduitkering kan er een risico zijn bij pensioenopbouw in eigen beheer.
+        + de belastingdienst kan dit beshcouwen als het afzien van de pensioenregeling met directe                  belastingheffing en revisierente als gevolg.
+        + dit valt niet af te dekken door verzekering, en kan alleen worden voorkomen door de                       pensioenafspraken daadwerkelijk aanwezig te laten zijn in de BV.
+
+#### 13.5 Opbouwogelijkheden
+
+1. opbouw over loon in natura:
+    + De DGA kan kiezen wat voor soort pensioenregeling hij wil:
+        + uitkeringsovereenkomst
+        + kapitaalovereenkomst
+        + premieovereenkomst
+    + dezefde maxima gelden als bij een gewone werknemer.
+    + bij pensioen in eigen beheer mag er geen pensioen worden opgebouwd over loon in natura, i.t.t.            verzekerd pensioen.
+        + denk aan wonen in een woning van zijn BV, zonder dat er huur wordt betaald.
+2. Eigen bijdrage:
+    + de premie voor pensioenopbouw kan zelf betaald worden
+    + bij verzekerd pensioen mag dit 100% van de inleg zijn.
+    + bij eigen beheer is dit 50% van de totale inleg.
+    + fiscaal voordeel; over de eigen bijdrage wordt geen loonbelasting geheven.
+3. AOW-franchise:
+    + als het ouderdomspensioen volledig in eigen beheer wordt opgebouwd, is de basis de ongehuwden AOW.
+        + bij middelloonregeling EUR 18.667, bij eindloonregeling EUR 21.123
+    + bij verzekeraar is het de enkelgehuwden AOW.
+        + bij middelloonregeling EUR 13.333, en bij eindloonregeling EUR 15.088.
+    + Bij mengvorm, geld de franchise voor volledig in eigen beheer.
+4. Hoogte pensioendotatie:
+    + voor het bepalen van hoeveel geld er nodig is om het pensioen mee te financieren rekend de verzekeraar     een pensioenpremie.
+        + bij een verzekeraar is er een winstopslag van ongeveer 10%.
+    + bij eigen beheer is er sprake van pensioendotatie.
+        + het doelvermogen zal lager liggen dan via een verzekeraar.
+        + dient actuarieel, d.w.z. rekening houdend met interest en sterftekans.
+5. Beleggen tijdens de opbouw:
+    + De DGA heeft volledige beleggingsvrijheid.
+        + bij verzekering kunnen er afspraken gemaakt worden over de beleggingsmogelijkheden, en                    verschuiving van het risico.        
+        + bij eigen beheer is dat niet mogelijk.
+
+
+#### 13.6 Kosten
+
+Een verzekeraar brengt kosten in rekening, in eigen beheer moet er rekening gehouden worden met allerlei regels, zoals de verplichting een specialist in te schakelen.
+
+#### 13.7 Belastingclaimverzekering
+
+Bij het vervallen van de pensioenverplichting, valt dit vrij als winst, waarover vennootschapbelasting verschuldigd over is. Omdat het opgebouwde pensioen slechts een boekhoudkundige reserve is, is er dus sprake van fiscale winst, en geen daadwerkelijke winst.  
+Dit risico kan worden afgedekt door een belastingclaimverzekering. Dit is een overlijdensrisicoverzekering op het leven van de DGA met de vennootschap als verzekeringnemer en begunstigde. De polis wordt meegerekend in de winst van de onderneming, waardoor er over de uitkering belasting moet worden betaald. 
+Bij een vennootschapsbelastingtarief van 25% moet het erzekerd kapitaal op de belastingclaimverzekering 25/75ste van de pensioenverplichting op de balans bedragen. Van de uitkering in de verzekering wordt er dan 75% overgehouden en dit moet 25% bedragenv an de verplichting op de balans.
+
+#### 13.8 Overzicht van eigen beheer en verzekeren
+
+![](C:\Users\sylve\OneDrive\Talent & Pro\Course Material\WFT\samenvattingen-wft\Vermogen\img\image29.jpg)
+
+#### 13.9 DGA-Begrip werknemersverzekeringen
+
+Om in aanmerking te kunnen komen voor WW en WIA, moet er sprake zijn van een gezagsverhouding tussen eht bedrijf en de werknemer. In een aantal gevallen is er geen sprake van een gezagsverhouding.  
+Er is geen recht op werknemersverzekeringen indien:
+
+* iemand alleen of samen met partner, ten minste 50% van de aandelen met stemrecht in bezit heeft.
+* iemand alleen of samen met partner een dusdanig deel van de aandelen heeft, dat de overige aandeelhouders geen meerderheid kunnen krijgen om hem te ontslaan.
+* meerdere aandeelhouders, die een gelijk aantal aandelen met stemrecht bezitten.
+* iemand waarbij ten minste 2/3 van de aandelen met stemrecht in het bezit zijn van bloed- of aanverwanten tot en met de derde graad. Zijn eigen aandleen tellen hierbij niet aan mee.  
+
+Mocht dit het geval zijn, dient de DGA zelf voorzieningen voor te treffen.
 
 ---
 
@@ -1541,11 +1773,206 @@ In het geval van scheiding heeft de ex-partner recht op de volgende nabestaandep
 
 *(pg 185-193)*
 
+De balans is een momentopname van de financiële positie van een onderneming. Om te kijken hoe een onderneming binnen een bepaalde tijd heeft gepresteerd, kan er gekeken worden naar de resultatenrekening, of winst-en-verliesrekening.
+
+#### 14.1 Balans
+
+De posten kunnen worden onderverdeeld in:
+
+* Bezittingen
+* Schulden
+* Eigen vermogen (bezittingen minus schulden)
+
+De bezittingen of activa staan links op de balans, op de debetzijde, de schulden en het eigen vermogen of pasiva, staan rechts op de balans, op de creditzijde.
+
+* *De Activa*
+    + Vaste activa:
+        + Immateriële vaste activa.
+            + Goodwill, d.w.z. wat een koper bereid is te betalen boven de intrinsieke waarde               van de onderneming.
+            + kosten in verband met oprichting en uitgifte van aandelen
+            + kosten van onderzoek en ontwikkeling
+            + kosten van verwerving voor concessies, vergunningen en rechten van intellectuele              eigendom.
+            + kosten van goodwill die van derden is verkregen.
+            + vooruitbetaling op immateriële vaste activa.
+            
+        + Materiële vaste activa.
+            + bedrijfgebouwen en -terreinen
+            + machines en installaties
+            + andere vaste bedrijfsmiddelen
+            materiële vaste activa in uitvoering en vooruitbetalingen op materiële vaste activa.
+            + niet aan het productieproces dienstbare materiële vaste activa.
+        + Materiële vaste activa nemen af in waarde. Dit word op de balans verwoord door middel         van afschrijvingen.
+        + Financiële vaste activa.
+            + deelnemingen in en vorderingen op groepsmaatschappijen.
+    + Vlottende activa.
+        + Voorraden
+            + grond- en hulpstoffen
+            + onderhanden werk
+            + gereed product en handelsgoederen
+            + vooruitbetaling op voorraden.
+        + Vorderingen
+            + vorderingen op handelsdebiteuren.
+        + Effecten.
+        + Liquide middelen.
+            + kasmiddelen
+            + tegoeden op bank-en girorekeningen
+            + wissels en cheques.
+* *De Passiva*
+    + Het eigen vermogen:
+        + het geplaatste kapitaal
+        + agio
+        + herwaarderingsreserves
+        + andere wettelijke reserves, onderscheidend naar hun aard
+        + statutaire reserves
+        + overige reserves
+        + niet verdeelde winsten, met aparte vermelding van het resultaat na belastingen.
+    + Voorzieningen.
+        + ter dekking van toekomstige uitgaven.
+        + de ondernemer is niet vrij in elke situatie te vormen.
+        + Zijn geen eigen vermogen, maar vreemd vermogen.
+    + Schulden.
+        + Schulden die apart vernoemd dienen te worden zijn:
+            + obligatieleningen, pandbrieven en andere leningen met afzonderlijke vermelding an             converteerbare leningen.
+            + schulden aan kredietinstellingen
+            + schulden aan leveranciers en handelskredieten.
+            + schulden ter zake van belastingen en premies van sociale verzekeringen.
+        + Er kan een onderscheid worden gemaakt tussen lange en korte termijn schulden. 
+            + Meestal gesteld op 1 jaar.
+
+#### 14.2 Winst-en-verliesrekening
+
+Het winstsaldo wordt bepaald door het verschil van de opbrengsten en de kosten. Bij winst staat het saldo aan de kant van de kosten, bij verlies staat het bij de opbrengsten.  
+
+Zaken die aan de kostenkant van de winst-en-verliesrekning komen te staan zijn:
+
+* Loonkosten
+* vaste afschrijvingskosten
+* huurkosten
+* rente over schulden
+* kleine kostenposten:
+    + telefonie
+    + elektriciteit
+    + etc.
+* incidentele lasten  
+
+Opbrengsten:
+
+* verkoopobrengst
+* rentebaten
+* incidentele baten  
+
+Met een vermogensvergelijking is het ook mogelijk om de winst in een bepaald jaar te bepalen. 
+Hier wordt de balans aan het einde van het jaar vergeleken met de balans aan het begin van het jaar. Zaken die bij deze berekening ook van belang zijn, zijn eventuele stortingen en onttrekkingen aan het eigen vermogen.  
+
+Liquiditeit & solvabiliteit.
+
+* Liquiditeit:
+    + de mate waarin de onderneming in staat is om aan haar directe opeisbare verplichtingen te     voldoen.
+* Solvabiliteit:
+    + de mate waarin de onderneming in staat is om aan AL haar verplichtingen te kunnen doen,       zowel korte als lange termijn.
+
 --- 
 
 ## 15 De macro-economische omgeving
 
-*(pg 195-200)*
+*(pg 195-201)*
+
+Allerlei zaken die van invloed zijn op het beleggersklimaat.
+
+#### 15.1 De economische kringloop; de betrokken partijen in de macro-economie
+
+De financiële markt is de plaats waar het aanbod en de vrraag naar financiële middelen elkaar ontmoeten.
+
+* Partijen willen uitgaven doen waar ze nog niet de middelen over beschikken         (financieringstekort).
+    + lenen op de markt.
+* Partijen met geld over, en de wens tot sparen (financieringsoverschot).
+    + beleggen op de markt.
+* Financiële instellingen.
+    + faciliteren de overdracht.  
+    
+De vraag en aanbod op de kapitaalmarkt bepaald de marktrente.
+
+#### 15.2 Wat is macro-economie.
+
+Macro-economie houdt zich bezig met de bestudering van economische systemen als geheel. Hier wordt geen onderscheid gemaakt tussen de afzonderlijke producten of diensten.  
+
+Er wordt onderscheid gemaakt in economische sectoren: 
+
+* consumenten
+    + Neemt de belangrijkste plaats in.
+    + brengt het grootste deel van het BNP voort.
+    + laat zich leiden door toekomstverwachtingen.
+* producenten
+    + het bedrijfsleven.
+    + probeert in de behoeften van de consumenten te voorzien.
+    + doelen zijn vaak maximale winst, of groot marktaandeel hebben.
+    + proberen deze doelstellingen te verwezelijken door het ontwikkelen van producten.
+* overheid
+    + vervult zowel een rol als consument als producent.
+    + financiëert projecten door middel van belasting en vermogenstitels.
+* buitenland
+    + Ieder land handeld in meer of mindere mate met andere landen.
+    + grote interne markten zijn onafhankelijker
+    + kleinere landen doorgaans afhankelijk van import en export.
+    + landen kunnen zich specialiseren om concurrentievoordeel te behalen.
+* centrale bank
+    + voert beleid met aanzien van de wisselkoers.
+    + met rente probeert de centrale bank deze te sturen.
+    + dit heeft invloed ophet gedrag van consumenten en producenten.
+    
+#### 15.3 Indicatoren voor beleggingsbeslissingen
+
+Binnen deze context is een indicator een getal dat een betrouwbare aanwijzing is voor de waarde van iets. Beleggers laten zich door deze indicatoren leiden in hun beleggingsbeslissingen.
+
+Voorbeelden van indicatoren: 
+
+1. economische groei.
+    + veranderingnen van economische activiteit gemeten door vergelijking met een eerder            meetpunt.
+    + schommelingen heten hier conjunctuur.
+        + hoogconjunctuur = sterke groei
+        + laagconjunctuur = trage groei
+        + crisis = negatieve groei
+2. inflatie
+    + het verschijnsel dat geld steeds minder waard wordt.
+    + inflatie en deflatie is in te hoge mate dramatisch voor de economie.
+    + voor het gelijkblijven van de koopkracht is het belangrijk dat de lonen stijgen met de        inflatie.
+    + monetaire geldhoeveelheid is de hoeveelheid geld die de centrale bank in omloop heeft         gebracht. 
+    + omloopsnelheid is het aantal keren dat het geld in een jaar wordt uitgegeven.
+    + manieren van inflatiebestrijding zijn:
+        + bij monetaire inflatie kan de geldhoeveelheid worden beperkt.
+        + bij bestedingsinflatie kan een restrictief monetair beleid worden gehandhaaft. d.w.z.         rente verhogen om het duurder te maken om geld te lenen.
+        + bij kosteninflatie is het erg lastig te bestrijden omdat de prijs van grondstoffen            wordt bepaald door de wereldmarkt.
+        + bij looninflatie is goed overleg tussen werkgevers en werknemers het belangijkst.
+        + bij deflatie dalen de prijzen van goederen structureel.
+            + beperkt vertrouwen van de consument.
+            + consumenten stellen bestedingen uit in verwachting van verdere prijsdalingen. 
+            + de overheid kan dit beperken door stimuleringsmaatregelen in te voeren.
+    + de overheid kan de economie sturen door budgettair beleid.
+    + de centrale bank kan de economie sturen door renteinstrument.
+3. Rente.
+    + geldmarkt
+        + hier worden geldmiddelen verhandeld met een looptijd van minder dan een jaar.
+        + de rente op deze markt wordt grotendeels bepaald door de Europese Centrale Bank.
+        + deze rente is lager dan de rente van banken onderling, dus dat stimuleert banken te           lenen bij de centrale bank.
+            + de verwachting is dat veranderingen op deze rente doorgerekend worden naar de                 klanten van de banken.
+        + ook vraag en aanbod van leningen bepalen de hoogte van de rente.
+            + bij een stijgende vraag naar leningen bij een lager aanbod zal de rente stijgen.
+            + omgekeerd zal het dalen.
+    + kapitaalmarkt
+        + hier worden geldmiddelen met een middellange of lange looptijd verhandeld.
+        + kasoverschotten of kastekorten zijn hiervan van invloed op de ontwikkeling van de             rente.
+        + inflatie speelt ook hier een grote rol.
+    + Beleggingsbeslissingen.
+        + manieren om middelenoverschotten te investeren:
+            + financiële titels:
+                + aandelen
+                + obligaties
+                + spaarrekeningen.
+        + voor elke soort financiële titel een eigen makrt met een eigen prijs.
+            + de hoogte van de rentevoet is de vergoeding voor het ter beschikking stellen van              de middelen op de markt.
+        + verschillen onderling in looptijd, risico, en soort geldvrager.
+
+    
 
 --- 
 
