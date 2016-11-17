@@ -1,0 +1,55 @@
+---
+title: "Samenvatting syllabus"
+author: "SN de Koning"
+date: "17 november 2016"
+output: html_document
+---
+
+## 1. De Hypotheekmarkt
+*(pg 3 - 21)*
+
+#### 1.1 Woonuitgaven.
+
+1. Huursector:
+    + woonconsumptie = basishuur.
+        + bestaat uit kale huur + servicekosten. 
+        + uitgesloten: nutsvoorzieningen.
+        + basishuur - huurtoeslag = netto huur.
+2. Koopsector:
+    + hypotheeklasten
+    + Opstalverzekering + bijdrage Vereniging van Eigenaren + evt. erfpacht.
+    + verschil netto en bruto woonlasten door fiscale effecten.
+    + bijkoende woonuitgaven: rioolrechten, onroerende zaakbelasting en nutsvoorzieningen.
+3. De markt voor woningen:
+    + 
+
+## 2. het aangaan van een hypothecair krediet
+*(pg 23 - 77)*
+
+## 3.Verzekeren en Wonen
+*(pg 83 - 93)*
+
+## 4. Mutaties en Beheer
+*(pg 95 - 110)*
+
+## 5. Juridische Aspecten
+*(pg 115 - 144)*
+
+## 6. Fiscale Aspected Rondom de Eigen Woning
+*(pg 147 - 214)*
+
+## 7. Bestaande Kapitaalverzekeringen en Bankspaarproducten
+*(pg 217- 241)*
+
+## 8. Het adviesproces en Zorgplicht
+*(pg 245 - 306)*
+
+## 9. Professioneel Gedrag
+*(pg 309 - 329)*
+
+## 10. Integriteit
+*(pg 331 - 352)*
+
+## 11. Adviesvaardigheden
+*(pg 353 - 358)*
+
