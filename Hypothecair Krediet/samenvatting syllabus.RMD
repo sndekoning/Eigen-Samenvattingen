@@ -21,7 +21,213 @@ output: html_document
     + verschil netto en bruto woonlasten door fiscale effecten.
     + bijkoende woonuitgaven: rioolrechten, onroerende zaakbelasting en nutsvoorzieningen.
 3. De markt voor woningen:
-    + 
+    + Prijs van koopwoning komt tot stand door:
+        + vraag
+        + aanbod
+        + hypotheekrente -> Meeste kunnen zonder hypotheek geen huis kopen.
+            + Lagere rente = lagere lasten = meer mensen kunnen/gaan lenen.
+        + Politiek als externe beïnvloeder. 
+            + Afschaffing renteaftrek, huren aantrekkelijker maken. Drukkend effect op waarde van woning.
+            + Bepaling maximale hoogte van hypotheek. Strenger wordende normen = drukkend effect op vraag naar woningen.
+    + *Kopersmarkt* = Groot aanbod woningen & kleine vraag -> Eerst oude woning verkopen, dan nieuwe woning aankopen. **Kopers hebben het voor het zeggen**
+        + Lage woningprijs
+    + *Verkopersmarkt* = Klein aanbod woningen & grote vraag -> Eerst nieuwe woning kopen, dan oude woning verkopen. **verkopers hebben het voor het zeggen**
+        + Hoge woningprijs.
+        
+#### 1.2 overwegingen bij het aankopen of huren van een woning.
+
+1. Eerste plaats emotie-aspect.
+2. Rationele risico's:
+    + *Lastenrisico*
+        + Koper: Grillig, rentewijzigingen, wijzigingen in het fiscare regime, overige belastingen t.b.v. de woning, premiewijzigingen.
+        + Huurder: Voorspelbaar. Periodieke huurverhogingen. 
+    + *Kosten van verhuizing*
+        + Koper: Hoog, kosten koper, financieringskosten, advieskosten, makelaarskosten.
+        + Huurder: Spul in dozen, en gaan met die banaan.
+    + *vermogensrisico*
+        + Koper: Wisselingen in de waarde van de woning, mogelijkheid tot restschuld.
+        + Huurder: bouwt geen vermogen op in steen, dus niet van toepassing.
+    + *volgorderisico*
+        + Koper: Extra lasten bij verkoop. Lasten oude woning + nieuwe lasten. OF: oude woning verkocht, nog geen nieuwe woning beschikbaar: tijdelijke opvang en opslag
+        + Huurder: n.v.t.
+    + *bezitvorming*
+        + Koper: bouwt bezit op in steen.
+        + Huurder: nope
+    + *woongenot*
+        + Koper: Heeft meer aanpassingsvrijheid m.b.t. de woning. 
+        + Huurder: is hierin beperkt door verhuurder.
+
+#### 1.3 De Hypotheekmarkt.
+
+1. Vraagkant van de hypotheekmarkt:
+    + *Starters*: Kopen voor het eerst in hun leven een woning, en sluiten hiervoor een hypothecaire lening af.
+    + *Doorstromers*: Hebben al een volgende woning, maar willen deze vervangen.
+    + *Oversluiters*: Huidige woning blijft onderpand, veranderen van verstrekker, vorm hypotheek, rentepercentage, tweede hypotheek.
+    + *Verhogers*: Spreekt voor zicht, bijvoorbeeld voor een verbouwing.
+2. Aanbodkant:
+    + Hypotheekbanken en bouwfondsen
+        + Plaatsen pandbrieven en trekken onderhandse leningen aan.
+        + Rentes worden gematched aan uitstaande leningen.
+        + Bouwfondsen idem, maar ontwikkelen en bouwen woningen zelf.
+            + Grote financier = Bank voor Nederlandse Gemeenten (BNG).
+            + Voordeel bouwfondsen is langere rentefixatietermijn. Reden = zijn actief op kapitaalmarkt in aantrekken gelden.
+    + Verzekeraars, pensioenfondsen en spaarkassen
+        + Verzekeringen kunnen direct aan hypothecair krediet worden gekoppeld.
+        + Premiereserve wordt belegd.
+        + Met verzekering aantrekkelijkere tarievering voor klant dan zonder.
+        + Pensioenfondsen verstrekt hypotheken om aan zijn eigen beleggingsdoel te voldoen.
+            + Strictere acceptatienormen, fonds wenst lager risico om aan beleggingsdoel te voldoen.
+    + Algemene banken en spaarbanken
+        + Grootste partij (~75% van de markt)
+        + Weinig onderlinge verschillen.
+        + Doel rentemarge behalen + nieuwe bankklanten aantrekken.
+    + Rechtspersonen die hypotheken verstrekken
+        + Doorgaans gunstige condities vanwege geen winstoogmerk.
+        + Vaak aan hun eigen leden of werknemers.
+    + Particulieren
+        + Denk aan familie of vrienden.
+
+##### Keuzefactoren hypothecaire lening.
+
+* Rentepercentage
+* Mogelijke hoogte van financiering, gelet op inkomen en onderpand.
+* hoogte van de advies- en overige afsluitkosten
+* mogelijkheid inbrengen kapitaalverzekering
+* verscheidenheid aan producten
+* keuzemogelijkheden voor rentevasteperioden.
+
+Tot aan 2013 grote toename verschillende producten. Fiscale maatregelen hebben hier een stokje voorgestoken, trent zet niet door. Verplichting klantbelang te toetsen alvorens een product op de markt te brengen.
+
+Eerste keuze klant: Direct (verstrekker) of indirect (tussenpersoon).
+
+#### 1.4 Koop van de eigen woning.
+
+* _De makelaar_
+    + Optionele partij bij de koop. Niet inschakelen kan kosten besparen.
+    + bemiddelt bij aan- en verkoop (ook verhuur) van onroerende zaken.
+    + Taxateur
+    + Bemiddelaar bij hypotheken.
+    + Geen beschermde term.
+        + Erkende makelaar, Register Makelaar-Taxateur (RMT) dient te voldoen aan de certificeringsregeling vastgestelde eisen omtrent kwaliteits- en opleidingsniveau.
+            + Jaar praktijkervaring
+            + Onderschrijving van de geschillenregeling van het Nederlands Instituut Certificatie en Registratie Makelaar-Taxateurs onroerende zaken.
+        + Brancheorganisaties:
+            + **NVM**: Nederlandse Vereniging van Makelaars.
+            + **VBO**: Vereniging bemiddeling Onroerend goed.
+            + **VastgoedPro**: Fusie van Landelijke Makelaars Vereniging (LMV) en het Register van Vastgoed Taxateurs (RVT)
+
+Stappen:
+
+1. Bij inschakeling van de makelaar bij verkoop wordt een *vaste opdracht* opgemaakt:
+        + Gegevens van verkoper
+        + Gegevens het te verkopen goed
+        + Bevoegdheden van makelaar vastgesteld
+            + Minimumprijs van woning, advertentiekosten, etc.
+2. Makelaar start een onderzoek:
+    + Is verkoper handelingsbekwaam en bevoegd?
+    + Is de verkoper eigenaar van het goed?
+    + Valt het goed in faillissement, of in overdeelde boedel?
+    + Komen economisch eigendom en juridisch eigendom overeen?
+    + Gegevens die hiervoor opgevraagd kunnen worden:
+        + *Kadastraal uittreksel*
+            + Basisgegevens van het registerobject. 
+            + naam, adres, geslacht en geboortedatum van kadastrale eigenaar
+            + kadastrale aanduiding
+            + oppervlakte
+            + zakelijke rechten
+            + belemmeringen (Aanduidingen monumentenwet, belemmeringenwet, Wet Bodembescherming)
+            + Verklaringen van erfrecth, wijzigingen in hypotheken en afkoop van erfpachtcanons.
+        + *Hypothecair uittreksel*
+            + Vermeldt eventuele hypotheken of beslagen op een kadastergoed.
+            + Naam en adres van schuldeisers of beslagleggers
+            + naam van de schuldenaar
+            + Hoofdsom of bedrag van beslaglegging
+            + Rentevoet
+        + Onderzoeken erfdienstbaarheden (rechten gebruik te maken van een stuk grond, zonder juridisch of economisch eigendom):
+            + Recht van overpad.
+        + onderzoek naar gemeentelijk bestemmingsplan.
+        + onderzoek naar hoogte van vaste lasten die op de zaak liggen.
+            + Onroerend goed belasting
+            + waterschaplasten.
+            + erfpacht.
+            + herstelwerkzaamheden.
+            + bodemonderzoek.
+3. Bij succesvol afronden onderzoek, vaststellen vraagprijs.
+4. Adverteren woning:
+    + Verkoopbord.
+    + Advertenties krant + internet.
+    + Inschrijving register NVM aangeboden onroerende zaken. Uitsluitend voor NVM aangesloten makelaars. DIMO heeft een register voor ook niet aangesloten makelaars.
+5. Potentiële kopers gaan eerst in gesprek met makelaar. Vervolgens bezichtiging.
+6. Uitbrengen bod. 
+    + Tijdens onderhandelingen met potentiële koper mag er geen onderhandelingen met andere kopers gevoerd worden.
+    + Koper krijgt gelegenheid een eigen bouwkundig onderzoek uit te (laten) voeren.
+    + Koper kan een offerte voor financiering op laten maken.
+        + Optieperiode is doorgaans een week.
+        + Dient schriftelijk te worden vastgelegd.
+        + Langere optieperiodes gaan samen met vergoeding aan verkoper.
+        + Mag niet tijdens de optieperiode worden verkocht aan ander.
+7. Kopers kunnen ook makelaar inschakelen. 
+    + Dient als agent in voorgaande stappen van koper.
+    
+##### Energielabel
+
+Sinds 1 januari 2015 regelgeving *energielabel Woningen* om te voldoen aan de Europese Richtlijn Energieprestatie Gebouwen (EPBD).
+
+1. Voorlopig energielabel
+    + Algemene kenmerkwaarden van de woning
+    + Energetische woningkenmerken van de woning
+2. het definitief energielabel
+    + bij de verkoop of verhuur van de wning verplicht een label aan te maken.
+    + via internetapplicate van de Rijksoverheid.
+    + Als het label ontbreekt kan er een boete tot 400euro worden opgelegd.
+3. de energie-index
+    + Vervanging van het Energieprestatiecertificaat (EPC)
+    + Verplicht voor bepaalde leningen, subsidies, hypotheekbedragen voor financiering van energiebesparende maatregelen.
+    + Uitdrukking van de energetische prestatie van een woning in een getal.
+    + Vastgesteld door EPA-adviseur.
+    + Bij vaststelling ontvangt de aanvrager gelijk het definitieve energielabel.
+4. Labels zijn 10 jaar geldig.
+
+###### De Koopovereenkomst.
+
+* Wordt gesloten bij overeenstemming tussen koper en verkoper.
+* Is vormvrij, verdient wel aanbeveling door professionele partij op te stellen.
+* Koop is verbinding zaak te leveren voor geldelijke vergoeding. Bij andere vergoeding is er sprake van ruil.
+* De koopakte is ook wel bekend als voorlopige koopovereenkomst. Is wel bindend!
+* Wettelijke bescherming van de consument:
+    + schriftelijke vastlegging van de overeenkomst
+    + bedenktijd zonder opgaaf van reden van drie dagen voor de koper. Ingaande op 00:00 uur op de dag van ontvangen koopovereenkomst.
+        + **NB** Werkdagen, feestdagen en weekenden zijn uitgesloten en telt dus door.
+    + mogelijkheid tot inschrijving van de kooopovereenkomst in de openbare registers
+    + geen gedwongen vooruitbetalingen.
+        + Een zekerheid wordt gesteld door een percentage van de koopsom op de rekening van de notaris te storten.
+        + andere mogelijkheid is een bankgarantie. Bij het niet doorgaan van de verkoop vergoed de bank het bedrag, en verhaalt deze op de koper.
+        + Bij nieuwbouw is de betaling in termijnen, de garantie is dan 5% van de koop/aannemingssom van de laatste termijn. Deze wordt dan bij de notaris gestord.
+    + **NB** Mondelinge koopovereenkomsten zijn sinds 1 september 2003 niet meer rechtsgeldig.
+* Na het verstrijken van de bedenktijd kan de overeenkomst in het register ingeschreven worden.
+    + Door de notaris. Deze dient ook de koopovereenkomst op te maken.
+    + Zonder tussenkomst van notaris = onderhandse koopakte.
+    + Aan de verkoper kan ook een waarborgsom worden opgelegd, als er nog aan gestelde eisen moet worden voldaan.
+* Ontbindende voorwaarden van de koopovereenkomst:
+    + het verkrijgen van een financiering (voor een bepaalde datum)
+    + het verkrijgen van een woonvergunning
+    + het verkrijgen van de nationale Hypotheek Garantie
+    + de aanwezigheid van verborgen gebreken wat blijkt uit een bouwkundig rapport
+    + Beschadiging door bijv. brand, storm, etc.
+* Wanprestatie dient als ontbindende bepaling opgenomen te worden. Dit kan niet boetevrij gebeuren.
+* Inhoud koopovereenkomst
+    + Voor nieuwbouwwoningen en bestaande bouw hebben diverse organisaties een modelkoopovereenkomst opgesteld. Hierin staat:
+        + Tijdstip van eigendomsoverdracht
+        + Hoe verschillen tussen werkelijke en opgegeven maten worden verrekend
+        + de grootte van de waarborgsom
+        + de wijze van betaling
+        + het moment van oplevering
+        + Regeling van eventuele subsidie.
+    + Personalia van koper en verkoper
+    + Vastlegging van handelingsbekwaamheid en beschikkingsbevoegdheid.
+    + Vastlegging gegevens onroerende zaak.
+
+--- Pagina 18 --- 
 
 ## 2. het aangaan van een hypothecair krediet
 *(pg 23 - 77)*
